@@ -47,6 +47,8 @@ Tools for the every-user to see whats going on in general.
 - [Community Map of Meshcore-Wardrive-Android data (https://meshwar-map.pages.dev/)
 - [MeshCore Map](https://map.meshcore.dev/) - static user uploads
 - [m3sh.uk Map](https://m3sh.uk/contacts/) - UK network as seen from Oxfordshire
+- [https://map.meshradio.uk/](https://map.meshradio.uk/) - https://map.meshradio.uk/
+- [https://mapme.sh/](https://mapme.sh/) - User reported signal
 
 ## Communities
 
