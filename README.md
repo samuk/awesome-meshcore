@@ -36,6 +36,7 @@ Everything from the official MeshCore project:
 ### Social Media
 
 - [Discord](https://discord.gg/ZVH2ujy9ex)
+- [Reddit r/MeshCore](https://www.reddit.com/r/meshcore/)
 - [Facebook](https://www.facebook.com/MeshCoreOfficial)
 - [YouTube](https://www.youtube.com/@meshcore-official)
 - [YouTube - Andy Kirby](https://www.youtube.com/@andykirby)
@@ -50,20 +51,8 @@ Tools for the every-user to see whats going on in general.
 - [https://map.meshradio.uk/](https://map.meshradio.uk/) - Analysis tool
 - [https://mapme.sh/](https://mapme.sh/) - User reported signal
 
-## Communities
-
-### Virtual
-
-- [r/MeshCore](https://www.reddit.com/r/meshcore/)
-
-### Portugal
+## Country websites
 
 - [MeshCore Portugal](https://meshcore.pt/)
-
-### Switzerland
-
 - [MeshCore Switzerland](https://www.meshcore.ch/)
-
-### United Kingdom
-
 - [MeshCore UK](https://meshcore.co.uk/)
