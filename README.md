@@ -28,7 +28,8 @@ Everything from the official MeshCore project:
 
 ## Open Source apps
 - [Meshcore Open](https://github.com/zjs81/meshcore-open) -Cross plaform FOSS client app for phones
-- [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network. 
+- [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
+- [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore [https://ipnt.uk/](Ipswich example) 
 
 ### Social Media
 
