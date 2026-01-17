@@ -11,6 +11,7 @@ sensor networks.
 ## Table of contents
 
 - [Official Resources](#official-resources)
+- [Open Source apps](#Open-source-apps)
 - [Social Media](#social-media)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Country websites](#Country-websites)
