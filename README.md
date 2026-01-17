@@ -11,14 +11,10 @@ sensor networks.
 ## Table of contents
 
 - [Official Resources](#official-resources)
-  - [Social Media](#social-media)
+- [Social Media](#social-media)
 - [Maps and Diagnostics](#maps-and-diagnostics)
-- [Communities](#communities)
-  - [Virtual](#virtual)
-  - [Portugal](#portugal)
-  - [Switzerland](#switzerland)
-  - [United Kingdom](#united-kingdom)
-  
+- [Country websites](#Country-websites)
+   
 --------------------
 
 ## Official Resources
