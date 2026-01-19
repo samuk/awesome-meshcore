@@ -39,7 +39,7 @@ Everything from the official MeshCore project:
 - [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Meshcore device firmware with enhanced user interface
 - [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
 - [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
-- [https://github.com/l5yth/potato-mesh](Potato mesh) - Web frontend to networks
+- [Potato mesh](https://github.com/l5yth/potato-mesh) - Web frontend to networks
 - [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
 
 ## Maps and Diagnostics
