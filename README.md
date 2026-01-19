@@ -26,13 +26,7 @@ Everything from the official MeshCore project:
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md)
 - [MeshCore Web Flasher](https://flasher.meshcore.co.uk/)
 
-## Open Source apps
-- [Meshcore Open](https://github.com/zjs81/meshcore-open) -Cross plaform FOSS client app for phones
-- [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
-- [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
-- [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Device firmware with enhanced user interface
-
-### Social Media
+## Social Media
 
 - [Discord](https://discord.gg/ZVH2ujy9ex)
 - [Reddit r/MeshCore](https://www.reddit.com/r/meshcore/)
@@ -40,13 +34,21 @@ Everything from the official MeshCore project:
 - [YouTube](https://www.youtube.com/@meshcore-official)
 - [YouTube - Andy Kirby](https://www.youtube.com/@andykirby)
 
+## Open Source apps
+- [Meshcore Open](https://github.com/zjs81/meshcore-open) -Cross plaform FOSS client app for phones
+- [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Meshcore device firmware with enhanced user interface
+- [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
+- [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
+- [https://github.com/l5yth/potato-mesh](Potato mesh) - Web frontend to networks
+- [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
+
 ## Maps and Diagnostics
 
-Tools for the every-user to see whats going on in general.
+Tools to see whats going on in general.
 - [https://mapme.sh/](https://mapme.sh/) - User reported signal
+- [https://www.meshcoresim.com/](https://www.meshcoresim.com/) - Simulator for Meshcore
 - [https://map.meshradio.uk/](https://map.meshradio.uk/) - Analysis tool
 - [https://analyzer.letsmesh.net/](https://analyzer.letsmesh.net) - MeshCore Analyzer
-- [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
 - [MeshCore Map](https://map.meshcore.dev/) - static user uploads
 - [m3sh.uk Map](https://m3sh.uk/contacts/) - UK network as seen from Oxfordshire
 
