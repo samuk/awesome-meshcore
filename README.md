@@ -37,6 +37,7 @@ or IoT sensor networks.
 ## Open Source apps
 - [Meshcore Open](https://github.com/zjs81/meshcore-open) Cross plaform FOSS client app for phones
 - [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
+-  [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui) Desktop Linux GUI for MeshCore mesh network devices via BLE 
 - [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
 - [PocketMesh](https://github.com/Avi0n/PocketMesh) A native MeshCore client for iOS & iPadOS 
 - [Potato mesh](https://github.com/l5yth/potato-mesh) - Web frontend to networks
@@ -46,9 +47,8 @@ or IoT sensor networks.
 ## Alternative Firmware
 
 - [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Meshcore device firmware with enhanced user interface
-- [Meshcore for Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV)
-- [Meshcore for Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro)
-- [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui)
+- [Meshcore for Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) Cardputer firmware
+- [Meshcore for Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) Wio tracker firmware
 - [TapTap](https://taptap.mtoolstec.com/) (proprietary?) for the SenseCAP Card Tracker T1000-E
 
 
