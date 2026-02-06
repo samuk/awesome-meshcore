@@ -60,7 +60,8 @@ Tools to see whats going on in general.
 - [https://www.meshcoresim.com/](https://www.meshcoresim.com/) - Simulator for Meshcore
 - [https://map.meshradio.uk/](https://map.meshradio.uk/) - Analysis tool
 - [https://analyzer.letsmesh.net/](https://analyzer.letsmesh.net) - MeshCore Analyzer
-- [MeshCore Map](https://map.meshcore.dev/) - Official - static user uploads
+- [https://meshmapper.net](https://meshmapper.net) Regionally segmented map
+- [https://map.meshcore.dev/](https://map.meshcore.dev/) - Official - static user uploads
 - [m3sh.uk Map](https://m3sh.uk/contacts/) - UK network as seen from Oxfordshire
 
 ## Country / region Websites
