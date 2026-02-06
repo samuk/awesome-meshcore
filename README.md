@@ -39,7 +39,7 @@ or IoT sensor networks.
 - [Meshcore Open](https://github.com/zjs81/meshcore-open) Cross plaform FOSS client app for phones
 - [PocketMesh](https://github.com/Avi0n/PocketMesh) A native MeshCore client for iOS & iPadOS
 - [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
-- [MC-WebUI ](https://github.com/MarekWo/mc-webui) A lightweight web interface for meshcore-cli, providing browser-based access to MeshCore mesh network
+- [MC-WebUI ](https://github.com/MarekWo/mc-webui) A WebUI for meshcore-cli, providing browser-based access to MeshCore network
 - [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) Home Assistant integration for monitoring and controlling MeshCore radio networks
 - [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui) Desktop Linux GUI for MeshCore mesh network devices via BLE
 - [MeshFirmware](https://github.com/mikecarper/meshfirmware) Windows/ Linux USB firmware updater for meshcore & meshtastic device
