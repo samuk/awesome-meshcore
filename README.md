@@ -72,6 +72,8 @@ Tools to see whats going on in general.
 - [MeshCore Portugal](https://meshcore.pt/)
 - [MeshCore Switzerland](https://www.meshcore.ch/)
 - [MeshCore UK](https://meshcore.co.uk/)
+- USA
+  - [Austin, TX](https://www.austinmesh.org/)    
 
 ## Country/ region Discord
 
