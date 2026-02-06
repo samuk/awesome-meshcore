@@ -15,7 +15,7 @@ or IoT sensor networks.
 - [Alternative Firmware](#alternative-firmware)
 - [Maps and Diagnostics](#maps-and-diagnostics)
 - [Country / region Websites](#country--region-websites)
-- [Country / region Discord](#country-region-Discord)
+- [Country / region Discord](#country--region-discord)
 
    
 --------------------
@@ -66,16 +66,21 @@ Tools to see whats going on in general.
 
 ## Country / region Websites
 
+### Europe
+
 - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/) 
 - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
 - [MeshCore Portugal](https://meshcore.pt/)
 - [MeshCore Switzerland](https://www.meshcore.ch/)
 - [MeshCore UK](https://meshcore.co.uk/)
-- USA
-  - [Austin, TX](https://www.austinmesh.org/)    
 
-## Country/ region Discord
+### USA
+
+- [Austin, TX](https://www.austinmesh.org/)    
+
+
+## Country / region Discord
 
 - [Most within main Discord](https://discord.gg/mt7NNZ86RS) Many regional channels exist within the Main Discord server
   
