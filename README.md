@@ -36,40 +36,45 @@ or IoT sensor networks.
 
 ## Open Source apps
 
-- [Meshcore Open](https://github.com/zjs81/meshcore-open) Cross plaform FOSS client app for phones
-- [PocketMesh](https://github.com/Avi0n/PocketMesh) A native MeshCore client for iOS & iPadOS
-- [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) Home Assistant integration for monitoring and controlling MeshCore radio networks
-- [Meshcore GUI for Linux](https://github.com/pe1hvh/meshcore-gui) Desktop Linux GUI for MeshCore mesh network devices via BLE
-- [MeshFirmware](https://github.com/mikecarper/meshfirmware) Windows/ Linux USB firmware updater for meshcore & meshtastic device
-- [Map.meshcore.dev-uploader](https://github.com/recrof/map.meshcore.dev-uploader) This bot will upload every repeater or room server to the map when companion hears new advert
-- [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) is an open-source desktop application for interacting with the MeshCore network.
-- [pyMC Console dist](https://github.com/dmduran12/pymc_console-dist) A real-time web dashboard for repeaters.
-- [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) Repeater Daemon in Python, built using the pymc_core library. 
-- [MC-WebUI ](https://github.com/MarekWo/mc-webui) A WebUI for meshcore-cli, providing browser-based access to MeshCore network
-- [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
-- [Potato mesh](https://github.com/l5yth/potato-mesh) - Web frontend to networks
-- [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
-- [RemoteTerm for MeshCore](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) Server and web-frontend for static companions with simple bots.
+| Project Name | Description | Stars | First Commit |
+| :--- | :--- | :---: | :--- |
+| [Meshcore Open](https://github.com/zjs81/meshcore-open) | Cross-platform FOSS client app for phones | 207 | Dec 2024 |
+| [Potato Mesh](https://github.com/l5yth/potato-mesh) | Federated web frontend to networks | 255 | Oct 2024 |
+| [Meshcore-HA](https://github.com/meshcore-dev/meshcore-ha) | Home Assistant integration for MeshCore | 21 | Mar 2024 |
+| [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 25 | Dec 2024 |
+| [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 18 | Oct 2024 |
+| [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 12 | Jan 2025 |
+| [Map Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Bot to upload nodes to the global map | 15 | Aug 2024 |
+| [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 9 | Dec 2024 |
+| [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 10 | Nov 2024 |
+| [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 6 | Jan 2025 |
+| [Meshcore GUI Linux](https://github.com/pe1hvh/meshcore-gui) | Desktop Linux GUI via BLE | 5 | Sep 2024 |
+| [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 4 | Nov 2024 |
+| [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
+| [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
 
-## Alternative Firmware
+## Alternative firmware
 
-- [Lunacore](https://github.com/STCisGOOD/lunarcore) Device firmware supporting MeshCore, MT & [Reticulum](https://reticulum.network/) on ESP32
-- [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) T-Deck / T-Deck Plus, SenseCap Indicator (TFT / D1Pro) with UI
-- [Meshcore for Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) Cardputer firmware
-- [Meshcore for Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) Wio tracker firmware
-- [TapTap](https://taptap.mtoolstec.com/) (proprietary?) for the SenseCAP Card Tracker T1000-E
+| Project Name | Description | Stars | First Commit |
+| :--- | :--- | :---: | :--- |
+| [Lunacore](https://github.com/STCisGOOD/lunarcore) | Multi-protocol (MeshCore/MT/Reticulum) for ESP32 | 114 | Oct 2024 |
+| [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck & SenseCap Indicator firmware with UI | 64 | Nov 2024 |
+| [Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Specialized UI for M5Stack Cardputer ADV | 86 | Jan 2025 |
+| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Custom firmware for Seeed Wio Tracker L1 Pro | 42 | July 2025 |
+| [TapTap (T1000-E)](https://taptap.mtoolstec.com/) | Proprietary/Closed-source firmware for T1000-E | N/A | Oct 2023 |
 
 ## Maps and Diagnostics
 
-Tools to see whats going on in general.
-- [https://mapme.sh/](https://mapme.sh/) - User reported signal
-- [https://meshrank.net/](https://meshrank.net/) - Rank of routes and repeaters (UK currently)
-- [https://www.meshcoresim.com/](https://www.meshcoresim.com/) - Simulator for Meshcore
-- [https://map.meshradio.uk/](https://map.meshradio.uk/) - Analysis tool
-- [https://analyzer.letsmesh.net/](https://analyzer.letsmesh.net) - MeshCore Analyzer
-- [https://meshmapper.net](https://meshmapper.net) Regionally segmented map
-- [https://map.meshcore.dev/](https://map.meshcore.dev/) - Official - static user uploads
-- [m3sh.uk Map](https://m3sh.uk/contacts/) - UK network as seen from Oxfordshire
+| Project / URL | Description |
+| :--- | :--- |
+| [mapme.sh](https://mapme.sh/) | Community map for reporting signal reports and coverage footprints from users. |
+| [meshrank.net](https://meshrank.net/) | Leaderboard and analytics site ranking MeshCore repeaters and routes, primarily in the UK. |
+| [meshcoresim.com](https://www.meshcoresim.com/) | Simulation tool for modeling message propagation and testing network scalability. |
+| [map.meshradio.uk](https://map.meshradio.uk/) | Network analysis and visualization tool specifically for the UK MeshRadio community. |
+| [analyzer.letsmesh.net](https://analyzer.letsmesh.net/) | Packet analyzer for debugging MeshCore traces, paths, and real-time network traffic. |
+| [meshmapper.net](https://meshmapper.net) | Regionally segmented mapping tool for signal quality and noise floor data. |
+| [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
+| [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
 
 ## Country / region Websites
 
