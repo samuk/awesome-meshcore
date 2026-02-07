@@ -49,7 +49,7 @@ or IoT sensor networks.
 - [Meshcore hub](https://github.com/ipnet-mesh/meshcore-hub) Web frontend for Meshcore stats [Ipswich example](https://ipnt.uk/)
 - [Potato mesh](https://github.com/l5yth/potato-mesh) - Web frontend to networks
 - [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) and [Map of Meshcore-Wardrive-Android data](https://meshwar-map.pages.dev/)
-- [RemoteTerm for MeshCore](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) Server and web-frontend for static companions with simple bots, store-now-decrypt-later paradigm, room discovery, and more.
+- [RemoteTerm for MeshCore](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) Server and web-frontend for static companions with simple bots.
 
 ## Alternative Firmware
 
