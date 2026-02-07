@@ -54,7 +54,7 @@ or IoT sensor networks.
 ## Alternative Firmware
 
 - [Lunacore](https://github.com/STCisGOOD/lunarcore) Device firmware supporting MeshCore, MT & [Reticulum](https://reticulum.network/) on ESP32
-- [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Meshcore device firmware with enhanced user interface LilyGO T-Deck / T-Deck Plus Seed Studio SenseCap Indicator (TFT / D1Pro)
+- [Dabeani device firmware](https://github.com/dabeani/meshcore?tab=readme-ov-file#table-of-contents) Enhanced user interface LilyGO T-Deck / T-Deck Plus Seed Studio SenseCap Indicator (TFT / D1Pro)
 - [Meshcore for Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) Cardputer firmware
 - [Meshcore for Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) Wio tracker firmware
 - [TapTap](https://taptap.mtoolstec.com/) (proprietary?) for the SenseCAP Card Tracker T1000-E
