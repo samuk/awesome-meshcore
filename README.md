@@ -100,6 +100,7 @@ or IoT sensor networks.
   - [West Cost Mesh](https://www.wcmesh.com/)
 - USA
   - [Austin, TX](https://www.austinmesh.org/)
+  - [Bay Area Meshcore](https://bayareameshcore.org/)
   - [CT Mesh](https://ctmesh.org/)
   - [nyme.sh](https://nyme.sh/)
   - [West coast Mesh](https://www.wcmesh.com/)
