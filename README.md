@@ -46,7 +46,6 @@ or IoT sensor networks.
 | [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 25 | Dec 2024 |
 | [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 18 | Oct 2024 |
 | [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 12 | Jan 2025 |
-| [Map Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Bot to upload nodes to the global map | 15 | Aug 2024 |
 | [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 9 | Dec 2024 |
 | [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 10 | Nov 2024 |
 | [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 6 | Jan 2025 |
@@ -72,6 +71,7 @@ or IoT sensor networks.
 | :--- | :--- | :--- |
 | [agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
+| [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 
 
 
