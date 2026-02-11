@@ -61,7 +61,7 @@ or IoT sensor networks.
 | [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck & SenseCap Indicator firmware with UI | 64 | Nov 2024 |
 | [Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Specialized UI for M5Stack Cardputer ADV | 86 | Jan 2025 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Custom firmware for Seeed Wio Tracker L1 Pro | 42 | July 2025 |
-| [TapTap (T1000-E)](https://taptap.mtoolstec.com/) | Proprietary/Closed-source firmware for T1000-E | N/A | Oct 2023 |
+| [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 2 | Oct 2023 |
 
 ## Maps and Diagnostics
 
