@@ -46,7 +46,6 @@ or IoT sensor networks.
 | [Meshcore Hub](https://github.com/ipnet-mesh/meshcore-hub) | Web frontend for Meshcore stats | 25 | Dec 2024 |
 | [pyMC_Repeater](https://github.com/rightup/pyMC_Repeater) | Repeater Daemon in Python (pymc_core) | 18 | Oct 2024 |
 | [PyMeshCore GUI](https://github.com/bliksemlabs/PyMeshCoreGUI) | Desktop application for MeshCore | 12 | Jan 2025 |
-| [Map Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Bot to upload nodes to the global map | 15 | Aug 2024 |
 | [pyMC Console](https://github.com/dmduran12/pymc_console-dist) | Real-time web dashboard for repeaters | 9 | Dec 2024 |
 | [PocketMesh](https://github.com/Avi0n/PocketMesh) | Native MeshCore client for iOS & iPadOS | 10 | Nov 2024 |
 | [MeshFirmware](https://github.com/mikecarper/meshfirmware) | Windows/Linux USB firmware updater | 6 | Jan 2025 |
@@ -54,6 +53,7 @@ or IoT sensor networks.
 | [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 4 | Nov 2024 |
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
 
 ## Alternative firmware
 
@@ -72,6 +72,7 @@ or IoT sensor networks.
 | :--- | :--- | :--- |
 | [agessaman's Meshcore bot](https://github.com/agessaman/meshcore-bot) | Serial, BLE or TCP/IP | Responds to commands |
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) | Serial | Responds to commands |
+| [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 
 
 
@@ -93,17 +94,26 @@ or IoT sensor networks.
 
 ### Europe
 
-- [Meshcore Ireland](https://loraproject.ie/)
+- Great Britain
+  - [MeshCore UK](https://meshcore.co.uk/)
+- Ireland
+  - [Meshcore Ireland](https://loraproject.ie/)
   - [Mayo Mesh](https://mayomesh.net/)
-- [Meshcore Netherlands ](https://www.localmesh.nl/en/)
-- [Meshcore Poland](https://lorameshcore.pl/)
-- [MeshCore Portugal](https://meshcore.pt/)
+- Latvia
+  - [MeshCore Latvia](https://apraide.lv/)
+- Netherlands
+  - [Meshcore Netherlands ](https://www.localmesh.nl/en/)
+- Poland
+  - [Meshcore Poland](https://lorameshcore.pl/)
+- Portugal
+  - [MeshCore Portugal](https://meshcore.pt/)
 - Spain
   - [Meshcore Catalonia (Spain)](https://meshcore.cat/)
   - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
-- [MeshCore Switzerland](https://www.meshcore.ch/)
-- [MeshCore UK](https://meshcore.co.uk/)
-- [MeshCore Latvia](https://apraide.lv/)
+- Switzerland
+  - [MeshCore Switzerland](https://www.meshcore.ch/)
+
+
 
 ### North America
 
@@ -136,6 +146,6 @@ In addition there is:
 - [Mesh Radio Ireland (N&S) Discord](https://discord.gg/kraQFkpU)
 
 ### USA
-- [West coast Mesh Discord](discord.gg/wcmesh)
+- [West coast Mesh Discord](https://discord.gg/wcmesh)
 - [nyme.sh Discord](https://discord.nyme.sh/)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
