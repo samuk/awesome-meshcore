@@ -55,6 +55,9 @@ or IoT sensor networks.
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
 
 ## Proprietary apps
+
+| Project Name | Description | Stars | First Commit |
+| :--- | :--- | :---: | :--- |
 | [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Proprietary Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
 
 
