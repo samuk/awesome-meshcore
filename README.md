@@ -53,7 +53,7 @@ or IoT sensor networks.
 | [MC-WebUI](https://github.com/MarekWo/mc-webui) | WebUI for meshcore-cli | 4 | Nov 2024 |
 | [Meshcore-Wardrive](https://github.com/mintylinux/Meshcore-Wardrive-Android) | Android wardriving and mapping app | 8 | Oct 2024 |
 | [RemoteTerm](https://github.com/jkingsman/Remote-Terminal-for-MeshCore) | Server and web-frontend for static companions | 4 | Jan 2025 |
-| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
+| [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) | Proprietary Android application for position tracking and messaging over the MeshCore LoRa mesh network. | 10 | |
 
 ## Alternative firmware
 
