@@ -109,6 +109,7 @@ or IoT sensor networks.
   - [Hamburg Mesh](https://hansemesh.de/) 
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
+  - [Ipswitch Net](https://ipnt.uk/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Ireland
@@ -122,6 +123,8 @@ or IoT sensor networks.
   - [Meshcore Poland](https://lorameshcore.pl/)
 - Portugal
   - [MeshCore Portugal](https://meshcore.pt/)
+- Romania
+  - [Brașov Mesh](https://brasovmesh.com/)
 - Slovak Republic
   - [Meshcore Slovakia](https://mesh.om3kff.sk/) 
 - Spain
@@ -129,6 +132,8 @@ or IoT sensor networks.
   - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 - Switzerland
   - [MeshCore Switzerland](https://www.meshcore.ch/)
+- Ukraine
+  - [MeshCore UA](https://meshcore.kiev.ua/) 
 
 
 
@@ -145,6 +150,8 @@ or IoT sensor networks.
   - [Boston Mesh](https://bostonme.sh/)
   - [CT Mesh](https://ctmesh.org/)
   - [Idaho Mesh](https://idahomesh.org/)
+  - [Minnesota/St Paul Mesh](https://mspmesh.org/)
+  - [Meshcore Texas](https://meshcoretx.net/)
   - [nyme.sh](https://nyme.sh/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
@@ -152,6 +159,8 @@ or IoT sensor networks.
 
 - Australia
   - [East Mesh](https://eastmesh.au/)
+  - [MeshCore Western Australia](https://perth.meshcore.au/)
+  - [NSW Mesh](https://nswmesh.au/)
 
 
 ## Country / region Discord
