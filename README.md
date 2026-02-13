@@ -60,12 +60,14 @@ or IoT sensor networks.
 
 | Project Name | Description | Stars | First Commit |
 | :--- | :--- | :---: | :--- |
-| [Lunacore](https://github.com/STCisGOOD/lunarcore) | Multi-protocol (MeshCore/MT/Reticulum) for ESP32 | 114 | Oct 2024 |
+| [Cardputer ADV (Sosprz ver)](https://github.com/sosprz/meshcore-cardputer-adv) | Specialized UI for M5Stack Cardputer ADV | 15 | Feb 2026 |
+| [Cardputer ADV (Stachugit ver)](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Specialized UI for M5Stack Cardputer ADV | 86 | Jan 2025 |
 | [Dabeani Firmware](https://github.com/dabeani/meshcore) | T-Deck/ T-Deck + & SenseCap Indicator firmware with UI | 64 | Nov 2024 |
-| [Cardputer ADV](https://github.com/Stachugit/MeshCore-Cardputer-ADV) | Specialized UI for M5Stack Cardputer ADV | 86 | Jan 2025 |
-| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Custom firmware for Seeed Wio Tracker L1 Pro | 42 | July 2025 |
+| [Lunacore](https://github.com/STCisGOOD/lunarcore) | Multi-protocol (MeshCore/MT/Reticulum) for ESP32 | 114 | Oct 2024 |
 | [Meck](https://github.com/pelgraine/Meck) | T-Deck pro | 3 | Nov 2025|
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 2 | Oct 2023 |
+| [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) | Custom firmware for Seeed Wio Tracker L1 Pro | 42 | July 2025 |
+
 
 ## Bots
 
@@ -109,6 +111,7 @@ or IoT sensor networks.
   - [Hamburg Mesh](https://hansemesh.de/) 
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
+  - [Ipswitch Net](https://ipnt.uk/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Ireland
@@ -122,6 +125,8 @@ or IoT sensor networks.
   - [Meshcore Poland](https://lorameshcore.pl/)
 - Portugal
   - [MeshCore Portugal](https://meshcore.pt/)
+- Romania
+  - [Brașov Mesh](https://brasovmesh.com/)
 - Slovak Republic
   - [Meshcore Slovakia](https://mesh.om3kff.sk/) 
 - Spain
@@ -129,6 +134,8 @@ or IoT sensor networks.
   - [Meshcore Jaén (Spain)](https://sierrasur.github.io/)
 - Switzerland
   - [MeshCore Switzerland](https://www.meshcore.ch/)
+- Ukraine
+  - [MeshCore UA](https://meshcore.kiev.ua/) 
 
 
 
@@ -145,6 +152,8 @@ or IoT sensor networks.
   - [Boston Mesh](https://bostonme.sh/)
   - [CT Mesh](https://ctmesh.org/)
   - [Idaho Mesh](https://idahomesh.org/)
+  - [Minnesota/St Paul Mesh](https://mspmesh.org/)
+  - [Meshcore Texas](https://meshcoretx.net/)
   - [nyme.sh](https://nyme.sh/)
   - [West coast Mesh](https://www.wcmesh.com/)
 
@@ -152,6 +161,8 @@ or IoT sensor networks.
 
 - Australia
   - [East Mesh](https://eastmesh.au/)
+  - [MeshCore Western Australia](https://perth.meshcore.au/)
+  - [NSW Mesh](https://nswmesh.au/)
 
 
 ## Country / region Discord
