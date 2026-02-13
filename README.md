@@ -13,8 +13,9 @@ or IoT sensor networks.
 - [Social Media](#social-media)
 - [Open Source apps](#free-and-open-source-apps)
 - [Open Source Firmware](#free-and-open-source-firmware)
-- [Bots](#bots)
 - [Maps and Diagnostics](#maps-and-diagnostics)
+- [Preinstalled devices](#preinstalled-devices)
+- [Bots](#bots)
 - [Proprietary apps](#proprietary-apps)
 - [Country / region Websites](#country--region-websites)
 - [Country / region Discord](#country--region-discord)
@@ -68,12 +69,6 @@ or IoT sensor networks.
 | [TapTap (T1000-E)](https://github.com/mtoolstec/TapTapFW) | T1000-E & WisMesh Tag. enhanced messaging capabilities and specific button interactions | 2 | Oct 2023 |
 | [Wio Tracker L1 Pro](https://github.com/sosprz/Meshcore-Wio-Tracker-L1-Pro) |Wio Tracker L1 Pro Custom firmware  | 42 | July 2025 |
 
-## Pre-flashed devices
-| Product | Description |
-| :--- | :--- |
-| [T-Deck + (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.8" screen, Qwerty, GPS, ESP32-s3 |
-| [T-Lora page (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.3" screen, Qwerty, GPS, ESP32-s3 |
-
 
 ## Maps and Diagnostics
 
@@ -88,6 +83,12 @@ or IoT sensor networks.
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
 | [meshrf.net](https://meshrf.net/) | RF propagation and link analysis tool designed for LoRa Mesh |
+
+## Preinstalled devices
+| Product | Description |
+| :--- | :--- |
+| [T-Deck + (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.8" screen, Qwerty, GPS, ESP32-s3 |
+| [T-Lora page (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.3" screen, Qwerty, GPS, ESP32-s3 |
 
 ## Bots
 
