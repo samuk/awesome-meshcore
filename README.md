@@ -109,6 +109,7 @@ or IoT sensor networks.
 - Germany
   - [Braunschweig Mesh](https://bsmesh.de/ )
   - [Hamburg Mesh](https://hansemesh.de/) 
+  - [Mesh Rheinland](https://www.meshrheinland.de/)
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
   - [Ipswitch Net](https://ipnt.uk/)
