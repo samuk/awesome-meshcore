@@ -88,7 +88,7 @@ or IoT sensor networks.
 | Product | Description |
 | :--- | :--- |
 | [T-Deck + (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.8" screen, Qwerty, GPS, ESP32-s3 |
-| [T-Lora page (Lilygo)](https://lilygo.cc/products/t-deck-plus-1?variant=51618502017205) |  2.3" screen, Qwerty, GPS, ESP32-s3 |
+| [T-Lora pager (Lilygo)](https://lilygo.cc/products/t-lora-pager?pr_prod_strat=jac&pr_rec_id=0c4d477a3&pr_rec_pid=8223446597813&pr_ref_pid=8115572179125&pr_seq=uniform)|  2.3" screen, Qwerty, GPS, ESP32-s3 |
 
 ## Bots
 
@@ -119,7 +119,7 @@ or IoT sensor networks.
   - [Mesh Rheinland](https://www.meshrheinland.de/)
 - Great Britain
   - [MeshCore UK](https://meshcore.co.uk/)
-  - [Ipswitch Net](https://ipnt.uk/)
+  - [Ipswich Net](https://ipnt.uk/)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Ireland
