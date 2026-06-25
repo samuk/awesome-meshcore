@@ -7,6 +7,7 @@ communications utilising LoRa radio hardware. It can be used for off-grid
 communication, emergency response & disaster recovery, outdoor activities,
 or IoT sensor networks.
 
+[Meshcore.live](https://meshcore.live) redirects to this page if you want an easy way to remember it.
 
 ## Table of contents
 
