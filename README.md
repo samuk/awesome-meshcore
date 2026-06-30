@@ -251,6 +251,8 @@ or IoT sensor networks.
   - [Meshcore Italia](https://www.meshcoreitalia.it) 
 - Latvia
   - [MeshCore Latvia](https://apraide.lv/)
+- Lithuania
+  - [Atviras Tinklas](https://atvirastinklas.lt/)
 - Netherlands
   - [Cornmeister Stats](https://cornmeister.nl/)
   - [Dutch MeshCore MQTT cluster](https://dutchmeshcore.nl/)
