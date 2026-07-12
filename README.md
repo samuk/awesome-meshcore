@@ -205,7 +205,9 @@ or IoT sensor networks.
 | [CycleNerd's Meshcore bot](https://github.com/Cyclenerd/meshcore-bot) ![GitHub Repo stars](https://img.shields.io/github/stars/Cyclenerd/meshcore-bot?style=social) | Serial | Responds to commands |
 | [Map Auto Uploader](https://github.com/recrof/map.meshcore.dev-uploader) ![GitHub Repo stars](https://img.shields.io/github/stars/recrof/map.meshcore.dev-uploader?style=social) | Serial | Bot will upload every repeater or room server to the map when companion hears new advert|
 | [Meshcore to Discord Bridge](https://github.com/Hude06/MeshCoreDiscordBridge) ![GitHub Repo stars](https://img.shields.io/github/stars/Hude06/MeshCoreDiscordBridge?style=social) | Serial | provides a bridge between MeshCore and Discord. |
+| [HopLink](https://github.com/A13xB0/hoplink) ![GitHub Repo stars](https://img.shields.io/github/stars/A13xB0/hoplink?style=social) | TCP/IP | Bridges MeshCore, Meshtastic, and Discord, enabling messages to flow between all three networks. |
 | [PokeMesh](https://github.com/IdreesInc/PokeMesh)  ![GitHub Repo stars](https://img.shields.io/github/stars/IdreesInc/PokeMesh?style=social) | Serial | PokeMesh is a collaborative game of Pokémon FireRed played over a decentralized network! The game view is processed and summarized, effectively turning the game into a text-based adventure over MeshCore |
+
 
 
 ---
@@ -241,6 +243,7 @@ or IoT sensor networks.
 - Great Britain
   - [Ipswich Net](https://ipnt.uk/)
   - [MeshCore Wales](https://meshcore.wales/)
+  - [ScotMesh](https://wiki.scotmesh.uk/en/MeshCore/getting-started)
 - Hungary
   - [Meshcore Hungary](https://mc868.hu/) 
 - Kazakhstan
