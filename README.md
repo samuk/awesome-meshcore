@@ -163,7 +163,7 @@ or IoT sensor networks.
 | [map.meshradio.uk](https://map.meshradio.uk/) | Network analysis and visualization tool specifically for the UK MeshRadio community. |
 | [analyzer.letsmesh.net](https://analyzer.letsmesh.net/) | Packet analyzer for debugging MeshCore traces, paths, and real-time network traffic. |
 | [HopRadar](https://hopradar.net/) | Browser-based live map, analyzer & radar using your own node (BLE/USB): hop-by-hop traces with SNR, radio paths, RX radar, LoS coverage and elevation profiles. No install, data stays local. |
-| [HopReach](https://github.com/A13xB0/hopreach) | Browser-based terrain-aware RF planning and MeshCore simulator. Produces realistic LoRa coverage maps from terrain data and accurately models packet propagation, collisions, repeater behaviour, airtime contention, preamble lock failures, hidden-node effects and network scalability before hardware is deployed. | ![GitHub last commit](https://img.shields.io/github/last-commit/A13xB0/hopreach) |
+| [HopReach](https://github.com/A13xB0/hopreach) | Browser-based terrain-aware RF planning and MeshCore simulator. Produces realistic LoRa coverage maps from terrain data and accurately models packet propagation, collisions, repeater behaviour, airtime contention, preamble lock failures, hidden-node effects and network scalability before hardware is deployed. |
 | [meshmapper.net](https://meshmapper.net) | Regionally segmented mapping tool for signal quality and noise floor data. |
 | [map.meshcore.dev](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [m3sh.uk](https://m3sh.uk) | Regional map portal showing the UK network topology as seen from Oxfordshire. |
