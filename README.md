@@ -131,6 +131,7 @@ or IoT sensor networks.
 | [BlackJack-OS](https://github.com/Robert-Proaps/BlackJackOS-BJOS-) ![GitHub Repo stars](https://img.shields.io/github/stars/Robert-Proaps/BlackJackOS-BJOS-?style=social) | A toolbox and platform to create apps and functionality for LilyGo **T-Deck** and **T-Deck Plus**. | ![GitHub last commit](https://img.shields.io/github/last-commit/Robert-Proaps/BlackJackOS-BJOS-) |
 | [SigurdOS T-Deck](https://github.com/hermes-gadget/SigurdOS-tdeck) ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-gadget/SigurdOS-tdeck?style=social) | A standalone GPL-3.0-or-later licensed companion app for LilyGo T-Deck. | ![GitHub last commit](https://img.shields.io/github/last-commit/hermes-gadget/SigurdOS-tdeck) |
 | [InkCore](https://codeberg.org/todd-herbert/InkCore) | AI-Free BLE-companion firmware for E-Ink devices. | |
+| [MeshCore Solo](https://github.com/MarekZegare4/MeshCore-Solo) ![GitHub Repo stars](https://img.shields.io/github/stars/MarekZegare4/MeshCore-Solo?style=social) | Standalone firmware based on official meshcore companion firmware for a few devices, currently (2026-08-03) for "Seeed Studio Wio Tracker L1" (OLED and eInk variant) and "GAT562 30S Mesh Kit". | ![GitHub last commit](https://img.shields.io/github/last-commit/MarekZegare4/MeshCore-Solo) |
 
 
 ## Closed Source Firmware
