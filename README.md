@@ -304,6 +304,7 @@ or IoT sensor networks.
   - [Florida Mesh](https://mc.flmesh.us/)
   - [Idaho Mesh](https://idahomesh.org/)
   - [Kentucky Mesh](https://mesh-ky.org/)
+  - [Lehigh Valley Mesh](https://lvmesh.com/) - Serves Eastern Pennsylvania and New Jersey.
   - [Lexington, KY Mesh](https://meshcorelexington.com/)
   - [Louisiana Mesh](https://louisianamesh.org/)
   - [Minnesota/St Paul Mesh](https://mspmesh.org/)
@@ -384,6 +385,7 @@ In addition, there are e.g.:
 - [CascadiaMesh Discord](https://discord.gg/m9yarB3p2E)
 - [Chicagoland Mesh Discord](https://chimesh.org/discord)
 - [CT Mesh Discord](https://discord.gg/m4F328as3K)
+- [Lehigh Valley Mesh Discord](https://discord.lvmesh.com/)
 - [Missouri Mesh Discord](https://missourimesh.org/discord)
 - [NTXMesh Discord](https://discord.gg/nGeQ8cbSM3)
 - [Spokane Mesh Discord](https://discord.gg/VzFcvSxxyr)
