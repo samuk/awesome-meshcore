@@ -19,8 +19,8 @@ sensor networks.
   - [Web](#web)
   - [Terminal](#terminal)
   - [Other Platforms](#other-platforms)
-  - [Firmware and Flashing](#firmware-and-flashing)
-  - [Forks and Custom Firmware](#forks-and-custom-firmware)
+- [Firmware and Flashing](#firmware-and-flashing)
+  - [Custom Firmware](#custom-firmware)
   - [Flashing and Updating](#flashing-and-updating)
 - [Hardware](#hardware)
   - [Supported Devices](#supported-devices)
@@ -254,7 +254,7 @@ Grouped by platform. Apps marked 🔒 are closed source.
 
 ## Firmware and Flashing
 
-### Forks and Custom Firmware
+### Custom Firmware
 
 Firmware marked 🔒 is closed source.
 
