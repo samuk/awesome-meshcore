@@ -329,7 +329,6 @@ Compatibility references; check these before buying a board.
 | [Mesh America supported hardware](https://wiki.meshamerica.com/books/meshcore/page/supported-hardware-for-meshcore) | Community list of compatible boards and chipsets. |
 | [mesh-sn.de firmware matrix](https://mesh-sn.de/en/devices/matrix) | Per-device matrix of which MeshCore firmware builds are available. |
 | [MeshCore Europe devices](https://meshcoreeurope.org/en/devices/) | Multilingual device directory with setup guides. |
-| [LocalMesh UK devices](https://localmesh.co.uk/devices/) | Device guides for the UK emergency network. |
 
 ### Pre-built Devices
 
@@ -661,7 +660,6 @@ Tools to see what is happening on the mesh.
 #### United Kingdom
 
 - [IPNet](https://ipnt.uk/) - Ipswich hub with CoreScope dashboards and MQTT services.
-- [LocalMesh UK](https://localmesh.co.uk/) - UK emergency network with city communities.
 - [MeshCore Wales](https://meshcore.wales/) - Welsh regional settings and coordination.
 - [MeshHub UK](https://meshhub.uk/) - National coordination platform.
 - [NorthMesh](https://northmesh.co.uk/) - Northern England.
