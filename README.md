@@ -665,7 +665,7 @@ Tools to see what is happening on the mesh.
 - [MeshCore Wales](https://meshcore.wales/) - Welsh regional settings and coordination.
 - [MeshHub UK](https://meshhub.uk/) - National coordination platform.
 - [NorthMesh](https://northmesh.co.uk/) - Northern England.
-- [ScotMesh](https://wiki.scotmesh.uk/) - Scottish community tools (also at [meshcore.scotmesh.net](https://meshcore.scotmesh.net/) and [scotmesh.mm7roq.compute.oarc.uk](https://scotmesh.mm7roq.compute.oarc.uk/)).
+- [ScotMesh](https://meshcore.scotmesh.net/) - Scottish regional settings, live map and guides.
 
 #### United States
 
