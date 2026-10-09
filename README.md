@@ -116,7 +116,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [NodakMesh enclosures guide](https://nodakmesh.org/meshcore/enclosures) | Overview of commercial and DIY cases with IP-rating guidance. |
 | [Outdoor Case for MeshCore Node / Repeater](https://www.thingiverse.com/thing:7383479) | Printable weatherproof repeater case. |
 
-## Client
+## Clients
 
 > Grouped by platform. Apps marked 🔒 are closed source.
 
