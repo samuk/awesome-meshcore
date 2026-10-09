@@ -1,9 +1,17 @@
 ---
 ---
 
+@import url("https://fonts.googleapis.com/css?family=Lato:400,700");
 @import "jekyll-theme-primer";
 
 html { scroll-behavior: smooth; }
+
+h1, h1 a {
+  color: #24292e;
+  text-decoration: none;
+  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;
+}
 
 #home-button {
   position: fixed;
@@ -18,7 +26,7 @@ html { scroll-behavior: smooth; }
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
   z-index: 100;
 }
-#home-button:hover { background: #084f96; }
+#home-button:hover { background: #084f96; color: #fff; }
 
 /* stop wide tables forcing sideways page scroll */
-table { display: block; overflow-x: auto; }
+table { display: block; overflow-x: auto; max-width: 100%; }
