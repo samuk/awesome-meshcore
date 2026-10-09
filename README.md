@@ -38,32 +38,32 @@ sensor networks.
 
 ### Social Media
 
-- [Discord](https://meshcore.gg) - Official server.
-- [Reddit r/meshcore](https://www.reddit.com/r/meshcore/) - Official subreddit.
+- [Discord](https://meshcore.gg) 
+- [Reddit r/meshcore](https://www.reddit.com/r/meshcore/) 
 - [Facebook group](https://www.facebook.com/groups/meshcore)
 - [Mastodon](https://mastodon.social/@meshcore)
 - [YouTube](https://www.youtube.com/@meshcore-official)
-- [X](https://x.com/mesh_core) - 
+- [X](https://x.com/mesh_core) 
 
 ## Communites
 
-· [Africa](#africa) 
+[Africa](#africa) 
 
-· [Asia](#asia) 
+[Asia](#asia) 
 
-· [Europe](#europe) 
+[Europe](#europe) 
 
-· [North America](#north-america) 
+[North America](#north-america) 
 
-· [Oceania](#oceania) 
+[Oceania](#oceania) 
 
-· [South America](#south-america) 
+[South America](#south-america) 
 
 ## Hardware
 
 ### Pre-built Devices
 
-Sold with MeshCore firmware pre-installed, or with MeshCore selectable at order.
+Sold with MeshCore firmware pre-installed, or with MeshCore selectable at order. For Europe get 868Mhz for N.America 915Mhz
 
 | Product | Price (USD) | Description |
 | :--- | :--- | :--- |
@@ -787,3 +787,11 @@ Tools to see what is happening on the mesh.
 - [MeshChile](https://meshchile.cl/) - Chilean community with MeshCore guides, Discord and a [GitHub org](https://github.com/Mesh-Chile).
 
 <a id="home-button" href="#contents">Home</a>
+
+<script>
+document.querySelectorAll('a[href]').forEach(function (a) {
+  if (a.getAttribute('href').charAt(0) === '#') return;
+  a.target = '_blank';
+  a.rel = 'noopener noreferrer';
+});
+</script>
