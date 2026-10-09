@@ -1,6 +1,6 @@
-[![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re)
 
-> A curated list of awesome MeshCore resources. Pull requests welcome!
+> A curated list of [![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re)
+ MeshCore resources. Pull requests welcome!
 
 MeshCore is a multi-platform system for enabling secure text based
 communications utilising LoRa radio hardware. It can be used for off-grid
