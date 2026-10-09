@@ -74,14 +74,19 @@ Apps and firmware marked 🔒 are closed source.
 
 Sold with MeshCore firmware pre-installed, or with MeshCore selectable at order.
 
-| Product | Description |
-| :--- | :--- |
-| [Seeed Wio Tracker L1 Pro for MeshCore](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-for-Meshcore-p-6717.html) | Handheld with GPS, OLED display and battery. |
-| [SenseCAP Solar Node P1 Pro for MeshCore](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html) | Solar-powered outdoor repeater with GPS. |
-| [Seeed MeshCore Starter Kit](https://www.seeedstudio.com/MeshCore-Starter-Kit-Ready-to-Use-Off-Grid-Instant-Reliable-Communication.html) | Bundle of a repeater and client nodes ready to deploy. |
-| [RAK WisMesh Tag (Atlavox)](https://atlavox.com/products/wismesh-tag-meshtastic-meshcore-radio) | IP66 GPS tracker; choose the MeshCore variant when ordering. |
-| [Elecrow ThinkNode M9](https://www.elecrow.com/thinknode-m9-meshcore-communication-terminal-with-full-keyboard-2-4inch-lcd-esp32-s3-lr1110-gps-2300mah.html) | Standalone communicator with QWERTY keyboard, colour LCD and GPS. |
-| [LilyGo T-LoRa Pager MeshCore](https://lilygo.cc/products/t-lora-pager-meshcore) | Pocket pager with keyboard, display and LR1121 radio. |
+# MeshCore devices by price (USD, lowest to highest)
+
+| Product | Price (USD) | Description |
+| :--- | :--- | :--- |
+| [Seeed Wio Tracker L1 Pro for MeshCore](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-for-Meshcore-p-6717.html) | ~$47.90 | Handheld with GPS, OLED display and battery. |
+| [Seeed MeshCore Starter Kit](https://www.seeedstudio.com/MeshCore-Starter-Kit-Ready-to-Use-Off-Grid-Instant-Reliable-Communication.html) | from ~$47.90+  | Bundle of a repeater and client nodes ready to deploy. |
+| [RAK WisMesh Tag (Atlavox)](https://atlavox.com/products/wismesh-tag-meshtastic-meshcore-radio) | ~$49.99 | IP66 GPS tracker; choose the MeshCore variant when ordering. |
+| [LilyGo T-Deck Plus](https://lilygo.cc/products/t-deck-plus-1?variant=51618501951669) | ~$70.99 | Handheld with keyboard, 2.8" LCD, GPS and SX1262 radio. |
+| [Elecrow ThinkNode M9](https://www.elecrow.com/thinknode-m9-meshcore-communication-terminal-with-full-keyboard-2-4inch-lcd-esp32-s3-lr1110-gps-2300mah.html) | ~$74.90 | Standalone communicator with QWERTY keyboard, colour LCD and GPS. |
+| [LilyGo T-LoRa Pager MeshCore](https://lilygo.cc/products/t-lora-pager-meshcore) | ~$87.35 | Pocket pager with keyboard, display and LR1121 radio. |
+| [SenseCAP Solar Node P1 Pro for MeshCore](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html) | ~$93.90 | Solar-powered outdoor repeater with GPS. |
+
+Prices last checked 9 October 2026.
 
 ### Supported Devices
 
@@ -98,17 +103,17 @@ Compatibility references; check these before buying a board.
 
 Open designs with published files (PCB, BOM, STL or detailed build guide).
 
-| Project | Description |
-| :--- | :--- |
-| [915 MHz Mesh Antenna](https://github.com/ellisgl/915-mesh-antenna) ![GitHub Repo stars](https://img.shields.io/github/stars/ellisgl/915-mesh-antenna?style=social) | Stacked collinear antenna with simulation files and build dimensions. |
-| [bardolf MeshCore Repeater](https://github.com/bardolf/meshcore-repeater) ![GitHub Repo stars](https://img.shields.io/github/stars/bardolf/meshcore-repeater?style=social) | Solar repeater with FreeCAD enclosure, STL files and full BOM. |
-| [LoRaMeshNodes](https://github.com/hotwolf/LoRaMeshNodes) ![GitHub Repo stars](https://img.shields.io/github/stars/hotwolf/LoRaMeshNodes?style=social) | Mobile and solar nodes with OpenSCAD enclosures, STL files and BOMs. |
-| [MeshCore E22P Repeater](https://github.com/Sukecz/MeshCore-E22P-Repeater) ![GitHub Repo stars](https://img.shields.io/github/stars/Sukecz/MeshCore-E22P-Repeater?style=social) | XIAO ESP32-S3 repeater with an Ebyte E22P module, wiring and firmware. |
-| [NodakMesh solar repeater build](https://nodakmesh.org/blog/meshcore-solar-repeater-build) | Parts list, solar sizing, weatherproofing and configuration walkthrough. |
-| [RePeter](https://github.com/robrec/MeshCoreRepeater-RePeter) ![GitHub Repo stars](https://img.shields.io/github/stars/robrec/MeshCoreRepeater-RePeter?style=social) | Bremen repeater board with Gerbers, schematics, BOM and STEP model. |
-| [XIAO S3 Dual-Radio Repeater](https://github.com/bouyous/meshcore-xiao-s3-dual-radio-repeater) ![GitHub Repo stars](https://img.shields.io/github/stars/bouyous/meshcore-xiao-s3-dual-radio-repeater?style=social) | Two-radio summit repeater with assembly guide and field test reports. |
-| [LoRaHarvesterBox](https://github.com/h0lad/LoRaHarvesterBox) ![GitHub Repo stars](https://img.shields.io/github/stars/h0lad/LoRaHarvesterBox?style=social) | STM32WLE5CC LoRa base board with a BQ25570 energy harvester for MeshCore or Meshtastic nodes. |
-| [SolarMeshtasticNodeMini](https://github.com/h0lad/SolarMeshtasticNodeMini) ![GitHub Repo stars](https://img.shields.io/github/stars/h0lad/SolarMeshtasticNodeMini?style=social) | Miniaturised 37×47mm solar node compatible with MeshCore and Meshtastic. |
+| Project | Stars | Description |
+| :--- | :--- | :--- |
+| [LoRaHarvesterBox](https://github.com/h0lad/LoRaHarvesterBox) | 11 | STM32WLE5CC LoRa base board with a BQ25570 energy harvester for MeshCore or Meshtastic nodes. |
+| [SolarMeshtasticNodeMini](https://github.com/h0lad/SolarMeshtasticNodeMini) | 9 | Miniaturised 37×47mm solar node compatible with MeshCore and Meshtastic. |
+| [LoRaMeshNodes](https://github.com/hotwolf/LoRaMeshNodes) | 8 | Mobile and solar nodes with OpenSCAD enclosures, STL files and BOMs. |
+| [bardolf MeshCore Repeater](https://github.com/bardolf/meshcore-repeater) | 6 | Solar repeater with FreeCAD enclosure, STL files and full BOM. |
+| [915 MHz Mesh Antenna](https://github.com/ellisgl/915-mesh-antenna) | 4 | Stacked collinear antenna with simulation files and build dimensions. |
+| [MeshCore E22P Repeater](https://github.com/Sukecz/MeshCore-E22P-Repeater) | 4 | XIAO ESP32-S3 repeater with an Ebyte E22P module, wiring and firmware. |
+| [XIAO S3 Dual-Radio Repeater](https://github.com/bouyous/meshcore-xiao-s3-dual-radio-repeater) | 3 | Two-radio summit repeater with assembly guide and field test reports. |
+| [RePeter](https://github.com/robrec/MeshCoreRepeater-RePeter) | 1 | Bremen repeater board with Gerbers, schematics, BOM and STEP model. |
+| [NodakMesh solar repeater build](https://nodakmesh.org/blog/meshcore-solar-repeater-build) | n/a | Parts list, solar sizing, weatherproofing and configuration walkthrough. |
 
 ### Enclosures and Mounts
 
@@ -143,7 +148,7 @@ Grouped by platform. Apps marked 🔒 are closed source.
 
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
-| [MeshCore Open](https://github.com/zjs81/meshcore-open/releases) | Android builds of the open-source Flutter client listed under Cross-Platform. | |
+| [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Open-source [Android client on Play](https://play.google.com/store/apps/details?id=com.meshcore.meshcore_open) | ![GitHub last commit](https://img.shields.io/github/last-commit/zjs81/meshcore-open) |
 | [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) ![GitHub Repo stars](https://img.shields.io/github/stars/mintylinux/Meshcore-Wardrive-Android?style=social) | Flutter wardriving and mapping app. | ![GitHub last commit](https://img.shields.io/github/last-commit/mintylinux/Meshcore-Wardrive-Android) |
 | [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/meshcore-team-alpha?style=social) | Android application for position tracking and messaging. | ![GitHub last commit](https://img.shields.io/github/last-commit/tmacinc/meshcore-team-alpha) |
 | [Peers](https://github.com/xAlisher/peers) ![GitHub Repo stars](https://img.shields.io/github/stars/xAlisher/peers?style=social) | Privacy-focused Android messenger routing over Logos, MeshCore and Bluetooth mesh. | ![GitHub last commit](https://img.shields.io/github/last-commit/xAlisher/peers) |
@@ -166,7 +171,7 @@ Grouped by platform. Apps marked 🔒 are closed source.
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
 | [mesh-client](https://github.com/Colorado-Mesh/mesh-client) ![GitHub Repo stars](https://img.shields.io/github/stars/Colorado-Mesh/mesh-client?style=social) | Electron desktop client for MeshCore, Meshtastic and Reticulum. | ![GitHub last commit](https://img.shields.io/github/last-commit/Colorado-Mesh/mesh-client) |
-| [meshy](https://codeberg.org/sesivany/meshy) | GTK4/libadwaita client for Linux and macOS, aiming for the best Linux experience. | |
+| [meshy](https://codeberg.org/sesivany/meshy) 68 star| GTK4/libadwaita client for Linux and macOS, aiming for the best Linux experience. |Oct 26 |
 | [MeshApp](https://github.com/smikme/meshapp) ![GitHub Repo stars](https://img.shields.io/github/stars/smikme/meshapp?style=social) | Desktop client for MeshCore and Meshtastic with telemetry views. | ![GitHub last commit](https://img.shields.io/github/last-commit/smikme/meshapp) |
 | [MeshCore gui](https://github.com/pe1hvh/meshcore-gui) ![GitHub Repo stars](https://img.shields.io/github/stars/pe1hvh/meshcore-gui?style=social) | Native desktop client over BLE, no firmware changes required. | ![GitHub last commit](https://img.shields.io/github/last-commit/pe1hvh/meshcore-gui) |
 | [PyMeshCoreGUI](https://github.com/bliksemlabs/PyMeshCoreGUI) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social) | Qt6 and Python desktop client. | ![GitHub last commit](https://img.shields.io/github/last-commit/bliksemlabs/PyMeshCoreGUI) |
@@ -186,7 +191,6 @@ Grouped by platform. Apps marked 🔒 are closed source.
 | [meshcore-webui](https://github.com/adradr/meshcore-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/adradr/meshcore-webui?style=social) | Web UI for managing devices and chatting on the mesh. | ![GitHub last commit](https://img.shields.io/github/last-commit/adradr/meshcore-webui) |
 | [meshcore-web (aXistem)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Docker-ready browser build of the companion app over BLE or USB; image `ghcr.io/axistem-dev/meshcore-web`. | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
 | [Official web app](https://app.meshcore.io/) 🔒 | Browser build of the official companion app. | |
-| [Official web app](https://app.meshcore.nz/) 🔒 | Browser build of the official companion app. | |
 
 ### Terminal
 
@@ -254,7 +258,7 @@ Firmware marked 🔒 is closed source.
 | [Trail Mate](https://github.com/vicliu624/trail-mate) ![GitHub Repo stars](https://img.shields.io/github/stars/vicliu624/trail-mate?style=social) | **LilyGO T-LoRa-Pager, T-Deck** (primary); M5Stack Tab5, T-Display P4 (bring-up); T-Watch S3 (experimental). Offline-first navigation with offline GPS maps, Meshtastic + MeshCore messaging, SSTV receiver, FSK+Codec2 walkie-talkie, ESP-NOW team mode, Sub-GHz sweep. | ![GitHub last commit](https://img.shields.io/github/last-commit/vicliu624/trail-mate) |
 | [Wadamesh](https://www.wadamesh.com/) ([GitHub repository](https://github.com/ALLFATHER-BV/wadamesh)) ![GitHub Repo stars](https://img.shields.io/github/stars/ALLFATHER-BV/wadamesh?style=social) | **Heltec V4 TFT/touch, LilyGo T-Deck.** Standalone LVGL touch UI: on-device chat, channels, rooms, contacts, live map, OTA updates, no phone required. Split out of Meshcomod. | ![GitHub last commit](https://img.shields.io/github/last-commit/ALLFATHER-BV/wadamesh) |
 | [ZephCore](https://github.com/liquidraver/ZephCore) ![GitHub Repo stars](https://img.shields.io/github/stars/liquidraver/ZephCore?style=social) | **nRF52840:** Wio Tracker L1, Seeed T1000-E, RAK4631, RAK WisMesh Tag, ThinkNode M1, Ikoka Nano 30dBm. **ESP32:** XIAO ESP32-C3/C6, Station G2, LilyGo TLoRa C6. **Other:** XIAO nRF54L15, XIAO MG24. Port from Arduino to Zephyr RTOS: WFI sleep, adaptive contention window, CAD-based RX duty cycling, UF2/DFU. | ![GitHub last commit](https://img.shields.io/github/last-commit/liquidraver/ZephCore) |
-| [MeshUltra](https://tdeck.ubnzeek.com/) 🔒 | **LilyGo T-Deck, T-Deck+.** Firmware for both devices. | |
+| [MeshUltra](https://tdeck.ubnzeek.com/) 🔒 | **LilyGo T-Deck, T-Deck+.** Firmware for both devices. | || | [SolarMeshtasticNodeMini](https://github.com/h0lad/SolarMeshtasticNodeMini) ![GitHub Repo stars](https://img.sh[SolarMeshtasticNodeMini](https://github.com/h0lad/SolarMeshtasticNodeMini) ![GitHub Repo stars](https://img.sh
 
 
 ### Flashing and Updating
