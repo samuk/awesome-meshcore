@@ -160,6 +160,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
+| [mcIRC](https://github.com/bclml/mcIRC) ![GitHub Repo stars](https://img.shields.io/github/stars/bclml/mcIRC?style=social) | IRC-style desktop client (Windows; Linux and macOS experimental) with several nodes at once, bots and addons, and a firmware builder for companions, repeaters, room servers and observers. | ![GitHub last commit](https://img.shields.io/github/last-commit/bclml/mcIRC) |
 | [mesh-client](https://github.com/Colorado-Mesh/mesh-client) ![GitHub Repo stars](https://img.shields.io/github/stars/Colorado-Mesh/mesh-client?style=social) | Electron desktop client for MeshCore, Meshtastic and Reticulum. | ![GitHub last commit](https://img.shields.io/github/last-commit/Colorado-Mesh/mesh-client) |
 | [meshy](https://codeberg.org/sesivany/meshy) 68 star| GTK4/libadwaita client for Linux and macOS, aiming for the best Linux experience. |Oct 26 |
 | [MeshApp](https://github.com/smikme/meshapp) ![GitHub Repo stars](https://img.shields.io/github/stars/smikme/meshapp?style=social) | Desktop client for MeshCore and Meshtastic with telemetry views. | ![GitHub last commit](https://img.shields.io/github/last-commit/smikme/meshapp) |
