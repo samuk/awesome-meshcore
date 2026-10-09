@@ -12,7 +12,7 @@ sensor networks.
 | Section | Subsections |
 | :--- | :--- |
 | [Official Resources](#official-resources) | [Social Media](#social-media) |
-| [Communities](#communities) | [Virtual](#virtual) · [Africa](#africa) · [Asia](#asia) · [Europe](#europe) · [North America](#north-america) · [Oceania](#oceania) · [South America](#south-america) |
+| [Communities](#communities) | [Africa](#africa) · [Asia](#asia) · [Europe](#europe) · [North America](#north-america) · [Oceania](#oceania) · [South America](#south-america) |
 | [Hardware](#hardware) | [Pre-built Devices](#pre-built-devices) · [Supported Devices](#supported-devices) · [DIY Builds](#diy-builds) · [Enclosures and Mounts](#enclosures-and-mounts) |
 | [Clients](#clients) | [Cross-Platform](#cross-platform) · [Android](#android) · [iOS and Apple](#ios-and-apple) · [Desktop](#desktop) · [Web](#web) · [Terminal](#terminal) · [Other Platforms](#other-platforms) |
 | [Firmware and Flashing](#firmware-and-flashing) | [Custom Firmware](#custom-firmware) · [Flashing and Updating](#flashing-and-updating) |
@@ -490,11 +490,6 @@ Tools to see what is happening on the mesh.
 
 
 ## Communities
-
-### Virtual
-
-- [LetsMesh Forum](https://forum.letsmesh.net/) - Community forum for MeshCore and LoRa mesh.
-- [MeshCore subreddit](https://old.reddit.com/r/meshcore/) - Community discussion.
 
 ### Africa
 
