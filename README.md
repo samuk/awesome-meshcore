@@ -127,35 +127,32 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 Grouped by platform. Apps marked 🔒 are closed source.
 
 ### Cross-Platform
-
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
 | [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Open-source Flutter client for mobile and desktop (Android, iOS, GNU/Linux, Windows, macOS). | ![GitHub last commit](https://img.shields.io/github/last-commit/zjs81/meshcore-open) |
-| [Official app](https://files.liamcottle.net/MeshCore/) 🔒 | Proprietary companion app, also on Google Play and the App Store. | |
 | [Meshcore SAR](https://github.com/dz0ny/meshcore-sar) ![GitHub Repo stars](https://img.shields.io/github/stars/dz0ny/meshcore-sar?style=social) | Offline-first search-and-rescue app: messaging, voice, images, maps and live location context in one app. (AI code) | ![GitHub last commit](https://img.shields.io/github/last-commit/dz0ny/meshcore-sar) |
-| [MeshCore TEAM](https://github.com/tmacinc/MeshCore-TEAM) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/MeshCore-TEAM?style=social) | Source of the cross-platform MeshCore TEAM companion app: team-oriented location tracking, messaging, contacts, channels and maps on stock firmware. | ![GitHub last commit](https://img.shields.io/github/last-commit/tmacinc/MeshCore-TEAM) |
 | [MCO Advanced](https://github.com/HDDen/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/HDDen/meshcore-open?style=social) | MeshCore Open fork with one-packet lossless image sending (MCOimg), built-in wardriving and text compression. | ![GitHub last commit](https://img.shields.io/github/last-commit/HDDen/meshcore-open) |
+| [MeshCore TEAM](https://github.com/tmacinc/MeshCore-TEAM) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/MeshCore-TEAM?style=social) | Source of the cross-platform MeshCore TEAM companion app: team-oriented location tracking, messaging, contacts, channels and maps on stock firmware. | ![GitHub last commit](https://img.shields.io/github/last-commit/tmacinc/MeshCore-TEAM) |
 | [Offband MeshCore](https://github.com/OffbandMesh/meshcore-client) ![GitHub Repo stars](https://img.shields.io/github/stars/OffbandMesh/meshcore-client?style=social) | Cross-platform client with direct and channel chat. | ![GitHub last commit](https://img.shields.io/github/last-commit/OffbandMesh/meshcore-client) |
 | [SigurdOS Client](https://github.com/hermes-gadget/SigurdOS-client) ![GitHub Repo stars](https://img.shields.io/github/stars/hermes-gadget/SigurdOS-client?style=social) | Companion app for GNU/Linux, Android, iOS, Windows, macOS, forked from Meshcore Open for "SigurdOS T-Deck" firmware. | ![GitHub last commit](https://img.shields.io/github/last-commit/hermes-gadget/SigurdOS-client) |
+| [Official app](https://files.liamcottle.net/MeshCore/) 🔒 | Proprietary companion app, also on Google Play and the App Store. | |
 | [Nelos](https://nelos.app/) 🔒 | iOS/Android app for group messaging and tracking people, pets and belongings, with downloadable offline maps. | |
 | [KIEKR](https://kiekr.app/) 🔒 | iOS and Android community toolbox app; can display incoming message scope, upload data to analysers, unlimited contacts. | |
-
 
 ### Android
 
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
+| [MeshCore Open](https://github.com/zjs81/meshcore-open/releases) | Android builds of the open-source Flutter client listed under Cross-Platform. | |
 | [Meshcore-Wardrive-Android](https://github.com/mintylinux/Meshcore-Wardrive-Android) ![GitHub Repo stars](https://img.shields.io/github/stars/mintylinux/Meshcore-Wardrive-Android?style=social) | Flutter wardriving and mapping app. | ![GitHub last commit](https://img.shields.io/github/last-commit/mintylinux/Meshcore-Wardrive-Android) |
 | [Tactical Emergency Area Messaging](https://github.com/tmacinc/meshcore-team-alpha) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/meshcore-team-alpha?style=social) | Android application for position tracking and messaging. | ![GitHub last commit](https://img.shields.io/github/last-commit/tmacinc/meshcore-team-alpha) |
-| [meshcore-mobile-app](https://github.com/thatSFguy/meshcore-mobile-app) ![GitHub Repo stars](https://img.shields.io/github/stars/thatSFguy/meshcore-mobile-app?style=social) | Hardened Android client, no Google Play Services required. | ![GitHub last commit](https://img.shields.io/github/last-commit/thatSFguy/meshcore-mobile-app) |
-| [meshtrax](https://github.com/venamartin/meshtrax) ![GitHub Repo stars](https://img.shields.io/github/stars/venamartin/meshtrax?style=social) | Flutter Android client with mapping and messaging. | ![GitHub last commit](https://img.shields.io/github/last-commit/venamartin/meshtrax) |
+| [Peers](https://github.com/xAlisher/peers) ![GitHub Repo stars](https://img.shields.io/github/stars/xAlisher/peers?style=social) | Privacy-focused Android messenger routing over Logos, MeshCore and Bluetooth mesh. | ![GitHub last commit](https://img.shields.io/github/last-commit/xAlisher/peers) |
 | [Yours](https://github.com/STCisGOOD/yours-x-lunarcore) ![GitHub Repo stars](https://img.shields.io/github/stars/STCisGOOD/yours-x-lunarcore?style=social) | Android encrypted P2P messaging client for LunarCore firmware, with onion-routing experiments. | ![GitHub last commit](https://img.shields.io/github/last-commit/STCisGOOD/yours-x-lunarcore) |
+| [meshtrax](https://github.com/venamartin/meshtrax) ![GitHub Repo stars](https://img.shields.io/github/stars/venamartin/meshtrax?style=social) | Flutter Android client with mapping and messaging. | ![GitHub last commit](https://img.shields.io/github/last-commit/venamartin/meshtrax) |
+| [meshcore-mobile-app](https://github.com/thatSFguy/meshcore-mobile-app) ![GitHub Repo stars](https://img.shields.io/github/stars/thatSFguy/meshcore-mobile-app?style=social) | Hardened Android client, no Google Play Services required. | ![GitHub last commit](https://img.shields.io/github/last-commit/thatSFguy/meshcore-mobile-app) |
 | [MeshCore-TEAM](https://play.google.com/store/apps/details?id=com.meshcore.team) 🔒 | Android client focused on group operations (Play Store build of [MeshCore TEAM](https://github.com/tmacinc/MeshCore-TEAM)). | |
 | [meshGO!](https://play.google.com/store/apps/details?id=com.meshcore.meshgo) 🔒 | Android off-grid messaging client. | |
 | [MeshMapper](https://play.google.com/store/apps/details?id=net.meshmapper.app) 🔒 | Android coverage mapping and wardriving app. | |
-| [MeshCore Open](https://github.com/zjs81/meshcore-open/releases) | Android builds of the open-source Flutter client listed under Cross-Platform. | |
-| [Peers](https://github.com/xAlisher/peers) ![GitHub Repo stars](https://img.shields.io/github/stars/xAlisher/peers?style=social) | Privacy-focused Android messenger routing over Logos, MeshCore and Bluetooth mesh. | ![GitHub last commit](https://img.shields.io/github/last-commit/xAlisher/peers) |
-
 
 ### iOS and Apple
 
@@ -169,12 +166,12 @@ Grouped by platform. Apps marked 🔒 are closed source.
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
 | [mesh-client](https://github.com/Colorado-Mesh/mesh-client) ![GitHub Repo stars](https://img.shields.io/github/stars/Colorado-Mesh/mesh-client?style=social) | Electron desktop client for MeshCore, Meshtastic and Reticulum. | ![GitHub last commit](https://img.shields.io/github/last-commit/Colorado-Mesh/mesh-client) |
+| [meshy](https://codeberg.org/sesivany/meshy) | GTK4/libadwaita client for Linux and macOS, aiming for the best Linux experience. | |
 | [MeshApp](https://github.com/smikme/meshapp) ![GitHub Repo stars](https://img.shields.io/github/stars/smikme/meshapp?style=social) | Desktop client for MeshCore and Meshtastic with telemetry views. | ![GitHub last commit](https://img.shields.io/github/last-commit/smikme/meshapp) |
 | [MeshCore gui](https://github.com/pe1hvh/meshcore-gui) ![GitHub Repo stars](https://img.shields.io/github/stars/pe1hvh/meshcore-gui?style=social) | Native desktop client over BLE, no firmware changes required. | ![GitHub last commit](https://img.shields.io/github/last-commit/pe1hvh/meshcore-gui) |
+| [PyMeshCoreGUI](https://github.com/bliksemlabs/PyMeshCoreGUI) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social) | Qt6 and Python desktop client. | ![GitHub last commit](https://img.shields.io/github/last-commit/bliksemlabs/PyMeshCoreGUI) |
 | [MeshCore Insights](https://github.com/BomBefok/MeshcoreInsights) ![GitHub Repo stars](https://img.shields.io/github/stars/BomBefok/MeshcoreInsights?style=social) | Desktop dashboard with live maps, telemetry analysis and remote node management. | ![GitHub last commit](https://img.shields.io/github/last-commit/BomBefok/MeshcoreInsights) |
 | [MeshCoreQt](https://github.com/zhrkvl/MeshCoreQt) ![GitHub Repo stars](https://img.shields.io/github/stars/zhrkvl/MeshCoreQt?style=social) | Qt desktop client. | ![GitHub last commit](https://img.shields.io/github/last-commit/zhrkvl/MeshCoreQt) |
-| [meshy](https://codeberg.org/sesivany/meshy) | GTK4/libadwaita client for Linux and macOS, aiming for the best Linux experience. | |
-| [PyMeshCoreGUI](https://github.com/bliksemlabs/PyMeshCoreGUI) ![GitHub Repo stars](https://img.shields.io/github/stars/bliksemlabs/PyMeshCoreGUI?style=social) | Qt6 and Python desktop client. | ![GitHub last commit](https://img.shields.io/github/last-commit/bliksemlabs/PyMeshCoreGUI) |
 | [QMeshcoreApp](https://github.com/FelixvdDonk/QMeshcoreApp) ![GitHub Repo stars](https://img.shields.io/github/stars/FelixvdDonk/QMeshcoreApp?style=social) | Qt6/QML desktop companion with BLE/serial, map and RX log. | ![GitHub last commit](https://img.shields.io/github/last-commit/FelixvdDonk/QMeshcoreApp) |
 | [meshcore-bin (AUR)](https://aur.archlinux.org/packages/meshcore-bin) 🔒 | Arch Linux package of the official app. | |
 
@@ -183,34 +180,33 @@ Grouped by platform. Apps marked 🔒 are closed source.
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
 | [MC-WebUI](https://github.com/MarekWo/mc-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/MarekWo/mc-webui?style=social) | WebUI for meshcore-cli. (AI code) | ![GitHub last commit](https://img.shields.io/github/last-commit/MarekWo/mc-webui) |
-| [Official web app](https://app.meshcore.io/) 🔒 | Browser build of the official companion app. | |
-| [meshcore-web (aXistem)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Docker-ready browser build of the companion app over BLE or USB; image `ghcr.io/axistem-dev/meshcore-web`. | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
-| [meshcore-web (Vue)](https://github.com/liamcottle/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/liamcottle/meshcore-web?style=social) | Early Vue web client, superseded by the official app. | ![GitHub last commit](https://img.shields.io/github/last-commit/liamcottle/meshcore-web) |
-| [meshcore-webui](https://github.com/adradr/meshcore-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/adradr/meshcore-webui?style=social) | Web UI for managing devices and chatting on the mesh. | ![GitHub last commit](https://img.shields.io/github/last-commit/adradr/meshcore-webui) |
-| [MeshCorium](https://github.com/PEG4TRON/MeshCorium) ![GitHub Repo stars](https://img.shields.io/github/stars/PEG4TRON/MeshCorium?style=social) | Self-hosted client with a local web interface and hybrid contact system. | ![GitHub last commit](https://img.shields.io/github/last-commit/PEG4TRON/MeshCorium) |
 | [Mycelium](https://github.com/WattleFoxxo/Mycelium) ![GitHub Repo stars](https://img.shields.io/github/stars/WattleFoxxo/Mycelium?style=social) | Browser client for messaging over serial or BLE. | ![GitHub last commit](https://img.shields.io/github/last-commit/WattleFoxxo/Mycelium) |
+| [meshcore-web (Vue)](https://github.com/liamcottle/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/liamcottle/meshcore-web?style=social) | Early Vue web client, superseded by the official app. | ![GitHub last commit](https://img.shields.io/github/last-commit/liamcottle/meshcore-web) |
+| [MeshCorium](https://github.com/PEG4TRON/MeshCorium) ![GitHub Repo stars](https://img.shields.io/github/stars/PEG4TRON/MeshCorium?style=social) | Self-hosted client with a local web interface and hybrid contact system. | ![GitHub last commit](https://img.shields.io/github/last-commit/PEG4TRON/MeshCorium) |
+| [meshcore-webui](https://github.com/adradr/meshcore-webui) ![GitHub Repo stars](https://img.shields.io/github/stars/adradr/meshcore-webui?style=social) | Web UI for managing devices and chatting on the mesh. | ![GitHub last commit](https://img.shields.io/github/last-commit/adradr/meshcore-webui) |
+| [meshcore-web (aXistem)](https://github.com/aXistem-dev/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/aXistem-dev/meshcore-web?style=social) | Docker-ready browser build of the companion app over BLE or USB; image `ghcr.io/axistem-dev/meshcore-web`. | ![GitHub last commit](https://img.shields.io/github/last-commit/aXistem-dev/meshcore-web) |
+| [Official web app](https://app.meshcore.io/) 🔒 | Browser build of the official companion app. | |
 | [Official web app](https://app.meshcore.nz/) 🔒 | Browser build of the official companion app. | |
 
 ### Terminal
 
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
-| [MeshChaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | Textual terminal client for Linux with delivery confirmation over serial or BLE. | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
-| [MeshTerm](https://meshterm.net/) ![GitHub Repo stars](https://img.shields.io/github/stars/jpmartineau/MeshTerm?style=social) | Cross-platform TUI client over USB, BLE or TCP with maps, traceroute and message-path views. | ![GitHub last commit](https://img.shields.io/github/last-commit/jpmartineau/MeshTerm) |
 | [meshtui](https://github.com/ekollof/meshtui) ![GitHub Repo stars](https://img.shields.io/github/stars/ekollof/meshtui?style=social) | Textual terminal client with delivery tracking and device management. | ![GitHub last commit](https://img.shields.io/github/last-commit/ekollof/meshtui) |
-| [QTC](https://github.com/initsixdev/QTC) ![GitHub Repo stars](https://img.shields.io/github/stars/initsixdev/QTC?style=social) | Old-school terminal client for Linux and macOS. | ![GitHub last commit](https://img.shields.io/github/last-commit/initsixdev/QTC) |
-| [Remote Terminal for MeshCore](https://github.com/MichTronics/Remote-Terminal-for-MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/MichTronics/Remote-Terminal-for-MeshCore?style=social) | Remote terminal for repeaters with packet capture and MQTT. | ![GitHub last commit](https://img.shields.io/github/last-commit/MichTronics/Remote-Terminal-for-MeshCore) |
 | [tui-meshcore](https://github.com/guax/tui-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/guax/tui-meshcore?style=social) | Terminal chat client with persistent history and regional presets. | ![GitHub last commit](https://img.shields.io/github/last-commit/guax/tui-meshcore) |
-
+| [MeshTerm](https://meshterm.net/) ![GitHub Repo stars](https://img.shields.io/github/stars/jpmartineau/MeshTerm?style=social) | Cross-platform TUI client over USB, BLE or TCP with maps, traceroute and message-path views. | ![GitHub last commit](https://img.shields.io/github/last-commit/jpmartineau/MeshTerm) |
+| [QTC](https://github.com/initsixdev/QTC) ![GitHub Repo stars](https://img.shields.io/github/stars/initsixdev/QTC?style=social) | Old-school terminal client for Linux and macOS. | ![GitHub last commit](https://img.shields.io/github/last-commit/initsixdev/QTC) |
+| [MeshChaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | Textual terminal client for Linux with delivery confirmation over serial or BLE. | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
+| [Remote Terminal for MeshCore](https://github.com/MichTronics/Remote-Terminal-for-MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/MichTronics/Remote-Terminal-for-MeshCore?style=social) | Remote terminal for repeaters with packet capture and MQTT. | ![GitHub last commit](https://img.shields.io/github/last-commit/MichTronics/Remote-Terminal-for-MeshCore) |
 
 ### Other Platforms
 
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
-| [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | Commodore 64 chat client over a SwiftLink-compatible serial cartridge. | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
-| [PicoMeshCore](https://github.com/Vigoleis912/PicoMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/Vigoleis912/PicoMeshCore?style=social) | MMBasic companion client for the Raspberry Pi Pico (PicoMite) over UART. | ![GitHub last commit](https://img.shields.io/github/last-commit/Vigoleis912/PicoMeshCore) |
 | [Roadstr](https://github.com/jooray/roadstr) ![GitHub Repo stars](https://img.shields.io/github/stars/jooray/roadstr?style=social) | Decentralized road-event reporting over signed Nostr events with MeshCore as transport — "Waze without the centralized tracking." | ![GitHub last commit](https://img.shields.io/github/last-commit/jooray/roadstr) |
 | [Sestriere](https://github.com/atomozero/Sestriere) ![GitHub Repo stars](https://img.shields.io/github/stars/atomozero/Sestriere?style=social) | Native Haiku OS client with maps, packet analysis and repeater administration. (AI code) | ![GitHub last commit](https://img.shields.io/github/last-commit/atomozero/Sestriere) |
+| [PicoMeshCore](https://github.com/Vigoleis912/PicoMeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/Vigoleis912/PicoMeshCore?style=social) | MMBasic companion client for the Raspberry Pi Pico (PicoMite) over UART. | ![GitHub last commit](https://img.shields.io/github/last-commit/Vigoleis912/PicoMeshCore) |
+| [MeshCore64](https://github.com/swannman/meshcore64) ![GitHub Repo stars](https://img.shields.io/github/stars/swannman/meshcore64?style=social) | Commodore 64 chat client over a SwiftLink-compatible serial cartridge. | ![GitHub last commit](https://img.shields.io/github/last-commit/swannman/meshcore64) |
 
 ## Firmware and Flashing
 
