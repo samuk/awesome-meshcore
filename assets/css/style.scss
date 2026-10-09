@@ -1,0 +1,24 @@
+---
+---
+
+@import "jekyll-theme-primer";
+
+html { scroll-behavior: smooth; }
+
+#home-button {
+  position: fixed;
+  right: 1.25rem;
+  bottom: 1.25rem;
+  padding: 0.5rem 1rem;
+  border-radius: 999px;
+  background: #0b6bcb;
+  color: #fff;
+  font-weight: 600;
+  text-decoration: none;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.25);
+  z-index: 100;
+}
+#home-button:hover { background: #084f96; }
+
+/* stop wide tables forcing sideways page scroll */
+table { display: block; overflow-x: auto; }
