@@ -20,7 +20,7 @@ sensor networks.
 | [Utilities](#utilities) | [Libraries and SDKs](#libraries-and-sdks) · [Integrations and Bots](#integrations-and-bots) · [Self-Hosted Dashboards](#self-hosted-dashboards) · [Packet Analysis](#packet-analysis) · [Miscellaneous](#miscellaneous) |
 | [Guides and Learning](#guides-and-learning) | |
 
-Apps and firmware marked 🔒 are closed source.
+> Apps and firmware marked 🔒 are closed source.
 
 ---
 
@@ -107,9 +107,10 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 
 ## Client
 
-Grouped by platform. Apps marked 🔒 are closed source.
+> Grouped by platform. Apps marked 🔒 are closed source.
 
 ### Cross-Platform
+
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
 | [Meshcore Open](https://github.com/zjs81/meshcore-open) ![GitHub Repo stars](https://img.shields.io/github/stars/zjs81/meshcore-open?style=social) | Open-source Flutter client for mobile and desktop (Android, iOS, GNU/Linux, Windows, macOS). | ![GitHub last commit](https://img.shields.io/github/last-commit/zjs81/meshcore-open) |
@@ -193,9 +194,7 @@ Grouped by platform. Apps marked 🔒 are closed source.
 ## Firmware and Flashing
 
 ### Custom Firmware
-# MeshCore firmware projects by GitHub stars (highest first)
-
-Firmware marked 🔒 is closed source.
+> Firmware marked 🔒 is closed source.
 
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
@@ -703,6 +702,7 @@ Tools to see what is happening on the mesh.
 
 #### United States
 
+
 - [Austin Mesh](https://www.austinmesh.org/) - Austin, Texas community.
 - [Bay Area MeshCore](https://bayareameshcore.org/) - San Francisco Bay Area network.
 - [Central Washington Hackers Discord](https://discord.gg/XFSA9f5kqM) - Central Washington State hacker community with MeshCore activity.
@@ -712,6 +712,38 @@ Tools to see what is happening on the mesh.
 - [Eastern US MeshCore](https://eastme.sh/) - Eastern states network.
 - [Florida Mesh](https://areyoumeshingwith.us/) - Florida-wide network run by amateur radio operators.
 - [Florida MeshCore](https://mc.flmesh.us/) - Statewide community network for Florida.
-- [Greater Boston
+- [Greater Boston Mesh](https://bostonme.sh/) - Boston-area community behind the Boston MeshCore MQTT dashboard.
+- [Gulf Coast Mesh](https://gulfcoastmesh.org) - Louisiana and US Gulf Coast network.
+- [Idaho Mesh](https://idahomesh.org) - Idaho network centred on the Treasure Valley.
+- [Inland NW Mesh](https://inlandnwmesh.org/) - Spokane, Coeur d'Alene, the Palouse and Lewiston/Clarkston.
+- [Kentucky Mesh](https://mesh-ky.org/) - Kentucky network; also covers Meshtastic.
+- [Lehigh Valley Mesh](https://lvmesh.com/) - Lehigh Valley and eastern Pennsylvania.
+- [Long Island Mesh](https://limesh.org/) - Long Island, New York network for MeshCore and Meshtastic.
+- [Madison Mesh](https://madmesh.net/) - Community-owned network in Madison, Wisconsin.
+- [Mesh America](https://meshamerica.com/) - Guides, wiki and network design articles.
+- [MeshCore Lexington](https://meshcorelexington.com/) - Lexington, Kentucky network.
+- [MeshCore TX](https://meshcoretx.net/) - Texas radio preset and repeater naming standard.
+- [MeshNY](https://nyme.sh/) - New York City community.
+- [MeshTexas](https://meshtexas.org/) - Statewide Texas network with a shared MQTT broker.
+- [Missouri Mesh](https://missourimesh.org/) - Missouri community; also covers Meshtastic.
+- [Mountain West Mesh](https://mwmesh.com/) - Utah, Idaho and Wyoming network.
+- [MSP Mesh](https://mspmesh.org/) - Minneapolis-Saint Paul and Greater Minnesota group.
+- [Nebraska Mesh](https://www.nebraskamesh.net/) - Statewide Nebraska network.
+- [Nevada Mesh](https://nvme.sh/) - Carson City, Reno and northern Nevada network.
+- [New England Mesh](https://nhmesh.com/) - New England-wide community across CT, MA, NH and ME.
+- [NodakMesh](https://nodakmesh.org/) - North Dakota community with wiki and guides.
+- [NTX Mesh](https://ntxmesh.com/) - Dallas-Fort Worth and greater North Texas.
+- [PhillyMesh](https://phillymesh.net/) - Philadelphia-area network and community.
+- [Pioneer Valley Mesh](https://pvmesh.org/) - Pioneer Valley of western Massachusetts.
+- [Puget Mesh](https://pugetmesh.org/) - Puget Sound region off-grid communication networks.
+- [RDUMesh](https://rdumesh.org/) - Raleigh, Durham and Chapel Hill network.
+- [RegionMesh](https://www.regionmesh.com/) - National hub with regional guides.
+- [Southern California MeshCore](https://socalmesh.org/) - Los Angeles area community with a public CoreScope instance.
+- [Spokane Mesh](https://www.spokanemesh.net/) - Spokane regional network.
+- [STMesh](https://www.stmesh.net/) - New York Southern Tier networks.
+- [TennMesh](https://tennmesh.com/) - Tennessee network community.
+- [Upstate Mesh](https://www.upst8me.sh/) - New York Capital District community.
+- [West Coast Mesh](https://www.wcmesh.com/) - West Coast community hub and coordination.
+- [WNY MeshCore](https://wnymeshcore.org/) - Western New York communication backbone.
 
-<a id="home-button" href="#">Home</a>
+<a id="home-button" href="#contents">Home</a>
