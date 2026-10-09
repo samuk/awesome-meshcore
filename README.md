@@ -1,4 +1,4 @@
-# Awesome MeshCore [![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re)
+[![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re)
 
 > A curated list of awesome MeshCore resources. Pull requests welcome!
 
