@@ -441,7 +441,7 @@ Tools to see what is happening on the mesh.
 | [MeshCore Polska map](https://mapa.meshcorepolska.org/) | Polish clients, repeaters, room servers and sensors. |
 | [MeshCore-de.fyi region map](https://umap.openstreetmap.de/en/map/meshcore-defyi_130650) | Editable uMap of regions, mainly Germany. See also [region-editing context](https://meshcore-de.fyi/meshcore:allgemeines:regions:reale-regions-in-repeatern) and [how to edit](https://meshcore-de.fyi/region_karte). |
 | [MeshMapper](https://meshmapper.net/) | Wardriving coverage platform with regional instances and an open API. |
-| [UK Mesh Network]((https://app.ukmesh.com)) | UK network with paths and live visualisation |
+| [UK Mesh Network](https://app.ukmesh.com) | UK network with paths and live visualisation |
 
 ### Diagnostics and Dashboards
 
