@@ -74,17 +74,15 @@ Apps and firmware marked 🔒 are closed source.
 
 Sold with MeshCore firmware pre-installed, or with MeshCore selectable at order.
 
-# MeshCore devices by price (USD, lowest to highest)
-
 | Product | Price (USD) | Description |
 | :--- | :--- | :--- |
 | [Seeed Wio Tracker L1 Pro for MeshCore](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-for-Meshcore-p-6717.html) | ~$47.90 | Handheld with GPS, OLED display and battery. |
-| [Seeed MeshCore Starter Kit](https://www.seeedstudio.com/MeshCore-Starter-Kit-Ready-to-Use-Off-Grid-Instant-Reliable-Communication.html) | from ~$47.90+  | Bundle of a repeater and client nodes ready to deploy. |
 | [RAK WisMesh Tag (Atlavox)](https://atlavox.com/products/wismesh-tag-meshtastic-meshcore-radio) | ~$49.99 | IP66 GPS tracker; choose the MeshCore variant when ordering. |
 | [LilyGo T-Deck Plus](https://lilygo.cc/products/t-deck-plus-1?variant=51618501951669) | ~$70.99 | Handheld with keyboard, 2.8" LCD, GPS and SX1262 radio. |
 | [Elecrow ThinkNode M9](https://www.elecrow.com/thinknode-m9-meshcore-communication-terminal-with-full-keyboard-2-4inch-lcd-esp32-s3-lr1110-gps-2300mah.html) | ~$74.90 | Standalone communicator with QWERTY keyboard, colour LCD and GPS. |
 | [LilyGo T-LoRa Pager MeshCore](https://lilygo.cc/products/t-lora-pager-meshcore) | ~$87.35 | Pocket pager with keyboard, display and LR1121 radio. |
 | [SenseCAP Solar Node P1 Pro for MeshCore](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshcore-p-6741.html) | ~$93.90 | Solar-powered outdoor repeater with GPS. |
+| [Seeed MeshCore Starter Kit](https://www.seeedstudio.com/MeshCore-Starter-Kit-Ready-to-Use-Off-Grid-Instant-Reliable-Communication.html) | from ~$141+  | Bundle of a repeater and client nodes ready to deploy. |
 
 Prices last checked 9 October 2026.
 
