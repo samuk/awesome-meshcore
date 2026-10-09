@@ -373,6 +373,8 @@ Firmware marked 🔒 is closed source.
 | [MeshCore Wardrive Map (Docker)](https://github.com/mintylinux/meshwar-map-docker) ![GitHub Repo stars](https://img.shields.io/github/stars/mintylinux/meshwar-map-docker?style=social) | Self-hosted SQLite-backed wardriving coverage map with no cloud dependency. | ![GitHub last commit](https://img.shields.io/github/last-commit/mintylinux/meshwar-map-docker) |
 | [MeshLog](https://github.com/Anrijs/MeshLog) ![GitHub Repo stars](https://img.shields.io/github/stars/Anrijs/MeshLog?style=social) | PHP/MySQL web dashboard for the companion MeshCore logger firmware. | ![GitHub last commit](https://img.shields.io/github/last-commit/Anrijs/MeshLog) |
 | [openHop Repeater UI](https://github.com/openhop-dev/openHop_RepeaterUI) ![GitHub Repo stars](https://img.shields.io/github/stars/openhop-dev/openHop_RepeaterUI?style=social) | Vue 3 web dashboard for monitoring and managing an openHop Repeater. | ![GitHub last commit](https://img.shields.io/github/last-commit/openhop-dev/openHop_RepeaterUI) |
+| [NOCT - Networked Off-grid Communications Terminal](https://noct.systems/) 🔒 | An all in one dashboard, bringing APRS, ADS-B, MeshCore, JS8Call, packet radio, Winlink email and GOES weather satellite data into one system. |  |
+
 
 ## Packet Analysis
 
@@ -432,13 +434,14 @@ Tools to see what is happening on the mesh.
 | [LocalMesh Netherlands map](https://localmesh.nl/en/map/) | Dutch network coverage. |
 | [LoraMesh France map](https://loramesh.fr/carte/) | French coverage by region. |
 | [m3sh.uk Map](https://m3sh.uk/contacts/) | UK network as seen from Oxfordshire. |
-| [map.meshradio.uk](https://map.meshradio.uk/) | Network analysis and visualization tool for the UK MeshRadio community. |
+| [~map.meshradio.uk~](https://map.meshradio.uk/) | **[Offline]** Network analysis and visualization tool for the UK MeshRadio community. |
 | [mapme.sh](https://mapme.sh/) | Crowdsourced coverage mapping with companion wardriving apps. |
 | [MeshCore Europe map](https://meshcoreeurope.org/en/map/) | European repeater and room server coverage. |
-| [MeshCore Map](https://map.meshcore.dev/) | Official global map displaying static user uploads for repeaters and room servers. |
+| [MeshCore Map](https://map.meshcore.io/) | Official global map displaying static user uploads for repeaters and room servers. |
 | [MeshCore Polska map](https://mapa.meshcorepolska.org/) | Polish clients, repeaters, room servers and sensors. |
 | [MeshCore-de.fyi region map](https://umap.openstreetmap.de/en/map/meshcore-defyi_130650) | Editable uMap of regions, mainly Germany. See also [region-editing context](https://meshcore-de.fyi/meshcore:allgemeines:regions:reale-regions-in-repeatern) and [how to edit](https://meshcore-de.fyi/region_karte). |
 | [MeshMapper](https://meshmapper.net/) | Wardriving coverage platform with regional instances and an open API. |
+| [UK Mesh Network](https://app.ukmesh.com) | UK network with paths and live visualisation |
 
 ### Diagnostics and Dashboards
 
