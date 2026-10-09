@@ -1,5 +1,5 @@
 
-> A curated list of [![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re)
+> [![Awesome list badge](https://awesome.re/badge.svg)](https://awesome.re) list of
  MeshCore resources. Pull requests welcome!
 
 MeshCore is a multi-platform system for enabling secure text based
