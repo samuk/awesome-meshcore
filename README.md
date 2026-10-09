@@ -52,7 +52,7 @@ Apps and firmware marked 🔒 are closed source.
 - [MeshCore Web Flasher](https://flasher.meshcore.io/) - Official browser-based firmware flasher for supported devices.
 - [MeshCore Map](https://map.meshcore.io/) - Official network map.
 - [The FAQ](https://github.com/meshcore-dev/MeshCore/blob/main/docs/faq.md) - Official answers on setup, roles and radio settings.
-- [Firmware repository](https://github.com/meshcore-dev/MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/meshcore-dev/MeshCore?style=social) - MIT licensed firmware. ![GitHub last commit](https://img.shields.io/github/last-commit/meshcore-dev/MeshCore)
+- [Firmware repository](https://github.com/meshcore-dev/MeshCore) MIT licensed firmware. 
 - [Current state of MeshCore encryption](https://github.com/meshcore-dev/MeshCore/issues/259) - Discussion thread on the project's encryption roadmap.
 - [Repeater/Room Config](https://config.meshcore.io/) - Official browser-based USB configuration tool for repeaters and room servers.
 
