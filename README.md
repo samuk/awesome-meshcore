@@ -46,7 +46,18 @@ sensor networks.
 - [X](https://x.com/mesh_core) - 
 
 ## Communites
-- [Communities](#communities)
+
+· [Africa](#africa) 
+
+· [Asia](#asia) 
+
+· [Europe](#europe) 
+
+· [North America](#north-america) 
+
+· [Oceania](#oceania) 
+
+· [South America](#south-america) 
 
 ## Hardware
 
@@ -702,7 +713,6 @@ Tools to see what is happening on the mesh.
 
 #### United States
 
-
 - [Austin Mesh](https://www.austinmesh.org/) - Austin, Texas community.
 - [Bay Area MeshCore](https://bayareameshcore.org/) - San Francisco Bay Area network.
 - [Central Washington Hackers Discord](https://discord.gg/XFSA9f5kqM) - Central Washington State hacker community with MeshCore activity.
@@ -745,5 +755,35 @@ Tools to see what is happening on the mesh.
 - [Upstate Mesh](https://www.upst8me.sh/) - New York Capital District community.
 - [West Coast Mesh](https://www.wcmesh.com/) - West Coast community hub and coordination.
 - [WNY MeshCore](https://wnymeshcore.org/) - Western New York communication backbone.
+
+### Oceania
+
+#### Australia
+
+- [EastMesh Australia](https://eastmesh.au/) - Eastern Australia community.
+- [Mesh Brisbane User Group wiki](https://wiki.mbug.com.au/en/Meshcore/Settings) - Brisbane and South East Queensland settings.
+- [MeshCore AUS wiki](https://wiki.meshcoreaus.org/) - Australian community documentation.
+- [MeshSydney](https://meshsydney.com/) - Sydney configuration and coordination.
+- [NSW Mesh](https://nswmesh.au/) - Sydney and New South Wales network with a community knowledge base.
+- [Perth MeshCore](https://perth.meshcore.au/) - Western Australia network.
+
+#### New Zealand
+
+- [Meshed](https://meshed.kiwi/) - New Zealand community network.
+
+### South America
+
+#### Argentina
+
+- [Mesh Argentina](https://mesharg.com.ar/) - Argentine community covering Meshtastic, MeshCore and Reticulum mesh networks.
+
+#### Brazil
+
+- [Mesh Sorocaba](https://www.meshsorocaba.org/) - Portuguese-language guides and community.
+- [MeshCore Brasil Telegram group](https://t.me/meshcorebrasil) - Brazilian community chat.
+
+#### Chile
+
+- [MeshChile](https://meshchile.cl/) - Chilean community with MeshCore guides, Discord and a [GitHub org](https://github.com/Mesh-Chile).
 
 <a id="home-button" href="#contents">Home</a>
