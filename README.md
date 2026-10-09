@@ -196,11 +196,11 @@ Grouped by platform. Apps marked 🔒 are closed source.
 | Project Name | Description | Last Updated |
 | :--- | :--- | :---: |
 | [MeshChaTUI](https://github.com/g-d-j-evans/MeschaTUI) ![GitHub Repo stars](https://img.shields.io/github/stars/g-d-j-evans/MeschaTUI?style=social) | Textual terminal client for Linux with delivery confirmation over serial or BLE. | ![GitHub last commit](https://img.shields.io/github/last-commit/g-d-j-evans/MeschaTUI) |
+| [MeshTerm](https://meshterm.net/) ![GitHub Repo stars](https://img.shields.io/github/stars/jpmartineau/MeshTerm?style=social) | Cross-platform TUI client over USB, BLE or TCP with maps, traceroute and message-path views. | ![GitHub last commit](https://img.shields.io/github/last-commit/jpmartineau/MeshTerm) |
 | [meshtui](https://github.com/ekollof/meshtui) ![GitHub Repo stars](https://img.shields.io/github/stars/ekollof/meshtui?style=social) | Textual terminal client with delivery tracking and device management. | ![GitHub last commit](https://img.shields.io/github/last-commit/ekollof/meshtui) |
 | [QTC](https://github.com/initsixdev/QTC) ![GitHub Repo stars](https://img.shields.io/github/stars/initsixdev/QTC?style=social) | Old-school terminal client for Linux and macOS. | ![GitHub last commit](https://img.shields.io/github/last-commit/initsixdev/QTC) |
 | [Remote Terminal for MeshCore](https://github.com/MichTronics/Remote-Terminal-for-MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/MichTronics/Remote-Terminal-for-MeshCore?style=social) | Remote terminal for repeaters with packet capture and MQTT. | ![GitHub last commit](https://img.shields.io/github/last-commit/MichTronics/Remote-Terminal-for-MeshCore) |
 | [tui-meshcore](https://github.com/guax/tui-meshcore) ![GitHub Repo stars](https://img.shields.io/github/stars/guax/tui-meshcore?style=social) | Terminal chat client with persistent history and regional presets. | ![GitHub last commit](https://img.shields.io/github/last-commit/guax/tui-meshcore) |
-| [MeshTerm](https://meshterm.net/) 🔒 | Cross-platform TUI client over USB, BLE or TCP with maps, traceroute and message-path views. | |
 
 
 ### Other Platforms
