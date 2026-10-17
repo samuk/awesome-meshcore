@@ -564,7 +564,9 @@ Tools to see what is happening on the mesh.
 #### Germany
 
 - [BSmesh](https://bsmesh.de/) - Greater Braunschweig network.
-- [HanseMesh](https://hansemesh.de/) - Northern Germany network and tutorials.
+- [HanseMesh](https://hansemesh.de/) - Network around [Hamburg greater area](https://umap.openstreetmap.de/de/map/meshcore-defyi-region-map_130650?feature=Hansemesh#7/52.382306/10.563354), and tutorials.
+- [BreMesh](https://hbme.sh/) - Network around [Bremen and Bremerhaven greater area](https://umap.openstreetmap.de/de/map/meshcore-defyi-region-map_130650?feature=bremesh#7/52.382306/10.563354), and tutorials.
+- [PEmesh](https://www.pemesh.de/) - Network around Peine.
 - [IsarMesh](https://isarmesh.de/) - Bavarian community forum.
 - [LocalMesh Deutschland](https://www.localmesh.de/) - German emergency radio network with guides.
 - [Münsterland Mesh](https://mcml.info/) - Münsterland region of North Rhine-Westphalia.
