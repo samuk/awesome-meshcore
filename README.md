@@ -38,6 +38,7 @@ sensor networks.
 - [Facebook group](https://www.facebook.com/groups/meshcore)
 - [Mastodon](https://mastodon.social/@meshcore)
 - [X](https://x.com/mesh_core) 
+- [YouTube](https://www.youtube.com/@meshcore-official) - 
 
 ## Communites
 
@@ -143,6 +144,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [MeshCore-TEAM](https://play.google.com/store/apps/details?id=com.meshcore.team) 🔒 | Android client focused on group operations (Play Store build of [MeshCore TEAM](https://github.com/tmacinc/MeshCore-TEAM)). |
 | [meshGO!](https://play.google.com/store/apps/details?id=com.meshcore.meshgo) 🔒 | Android off-grid messaging client. |
 | [MeshMapper](https://play.google.com/store/apps/details?id=net.meshmapper.app) 🔒 | Android coverage mapping and wardriving app. |
+| [MeshCore Open](https://github.com/zjs81/meshcore-open/releases) | Android builds of the open-source Flutter client listed under Cross-Platform. |
 
 ### iOS and Apple
 
@@ -179,6 +181,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [MeshConsole](https://github.com/m9wav/MeshConsole) ![GitHub Repo stars](https://img.shields.io/github/stars/m9wav/MeshConsole?style=social) | Web interface and CLI for MeshCore and Meshtastic devices. |
 | [meshcore-web (Vue)](https://github.com/liamcottle/meshcore-web) ![GitHub Repo stars](https://img.shields.io/github/stars/liamcottle/meshcore-web?style=social) | Early Vue web client, superseded by the official app. |
 | [Official web app](https://app.meshcore.io/) 🔒 | Browser build of the official companion app. |
+| [Official web app](https://app.meshcore.nz/) 🔒 | Browser build of the official companion app. |
 
 ### Terminal
 
@@ -495,6 +498,8 @@ Tools to see what is happening on the mesh.
 | [MeshCore Observer MQTT bridge docs](https://observer.gessaman.com/docs) | Setting up repeaters to uplink packet data to multiple MQTT brokers. |
 | [MeshMapper Wiki](https://wiki.meshmapper.net/) | Getting started, FAQ and app overview for the MeshMapper wardriving app. |
 | [The MeshCore Map](https://blog.meshcore.io/2026/04/04/meshcore-map) | Official blog post on how the node map works. |
+| [Andy Kirby getting started video](https://www.youtube.com/watch?v=t1qne8uJBAc) | Beginner walkthrough of setting up MeshCore off-grid text messaging. |
+| [Andy Kirby on YouTube](https://www.youtube.com/@andykirby) | Hardware reviews, repeater builds and firmware walkthroughs. |
 
 
 ## Communities
