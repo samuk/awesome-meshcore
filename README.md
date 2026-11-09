@@ -482,6 +482,7 @@ Tools to see what is happening on the mesh.
 | [MeshCore Europe getting started](https://meshcoreeurope.org/en/get-started/) | Multilingual introduction. |
 | [MeshCore Europe repeater guide](https://meshcoreeurope.org/en/repeater-guide/) | Repeater deployment walkthrough. |
 | [MeshCore Ninja](https://meshcore.ninja/) | Open catalog of regional networks, devices, firmwares and software. |
+| [meshers.net](https://meshers.net/) | Beginner guides, worldwide band and device guide, and local groups directory. |
 | [NodakMesh wiki](https://nodakmesh.org/meshcore/wiki) | Reference documentation and setup guides. |
 | [ScotMesh getting started](https://wiki.scotmesh.uk/en/MeshCore/getting-started) | Beginner guide from unboxing to the first message. |
 | [Video: MeshCore Quickstart](https://youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) | The comms channel's quickstart playlist. |
