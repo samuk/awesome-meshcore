@@ -476,6 +476,7 @@ Tools to see what is happening on the mesh.
 | [Kev's Robots MeshCore course](https://www.kevsrobots.com/learn/meshcore/) | Structured tutorial series from basics to flashing. |
 | [LitBomb's MeshCore FAQ](https://github.com/LitBomb/MeshCore-FAQ) | Community FAQ in English and German. |
 | [LocalMesh NL setup guide](https://www.localmesh.nl/en/meshcore-setup/) | Dutch-language beginner guide. |
+| [LoRa Mesh Atlas](https://lorameshatlas.com/) | Independent, source-checked comparison of LoRa radios for MeshCore and Meshtastic, with a device finder and side-by-side specs. |
 | [Mesh America wiki](https://wiki.meshamerica.com/books/meshcore/page/start-here-meshcore-guide) | Guides and protocol overview. |
 | [Mesh Sorocaba configuração](https://www.meshsorocaba.org/configuracao/) | Portuguese-language setup documentation. |
 | [Meshcore region info](https://github.com/luckystriike22/meshcore_region_info) | Reference on MeshCore region codes and how they're used. |
