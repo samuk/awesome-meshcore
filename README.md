@@ -246,6 +246,7 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [MeshcoreGRID](https://github.com/Quark1980/MeshcoreGRID) ![GitHub Repo stars](https://img.shields.io/github/stars/Quark1980/MeshcoreGRID?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/Quark1980/MeshcoreGRID) | **Heltec WiFi LoRa 32 V4 TFT** (ESP32-S3, FT6336 touchscreen). Touch-first UI with Messenger (DM + channel chat, ACK tracking), Discover (advert browser), Radio/BLE/Settings/Power apps, pinch-to-zoom Map. BETA. |
 | [MeshCore TEAM enhanced firmware](https://github.com/tmacinc/MeshCore) ![GitHub Repo stars](https://img.shields.io/github/stars/tmacinc/MeshCore?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/tmacinc/MeshCore) | **Autonomous tracker custom firmware.** Layered on stock MeshCore, adding team-oriented GPS tracking, smart forwarding control and unattended autonomous operation. |
 | [Faro](https://github.com/radek-sixi/sixi-tdeck-plus) ![GitHub Repo stars](https://img.shields.io/github/stars/radek-sixi/sixi-tdeck-plus?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/radek-sixi/sixi-tdeck-plus) | **LilyGO T-Deck Plus.** On-device LVGL 9.3 touch/keyboard/trackball UI built on top of unmodified MeshCore companion firmware; BLE and Wi-Fi/TCP clients keep working. Apache-2.0. |
+| [LusoFW](https://github.com/Meshcore-Portugal/lusofw) ![GitHub Repo stars](https://img.shields.io/github/stars/Meshcore-Portugal/lusofw?style=social)<br>![GitHub last commit](https://img.shields.io/github/last-commit/Meshcore-Portugal/lusofw) | Firmware from the Portuguese community that stays compatible with stock MeshCore, with Portuguese defaults such as regions set from the node's position. [Web flasher](https://www.meshcore.pt/en/tools/flasher). |
 | [InkCore](https://codeberg.org/todd-herbert/InkCore) | AI-free BLE-companion firmware for small e-paper devices with configurable applets. Hosted on Codeberg, so no GitHub stars. |
 | [MeshUltra](https://tdeck.ubnzeek.com/) 🔒 | **LilyGo T-Deck, T-Deck+.** Firmware for both devices. Closed source, so no repo to star. |
 
@@ -381,6 +382,8 @@ Open designs with published files (PCB, BOM, STL or detailed build guide).
 | [MeshCute](https://github.com/MadScientistCH/meshcute) ![GitHub Repo stars](https://img.shields.io/github/stars/MadScientistCH/meshcute?style=social)<br>![Last updated](https://img.shields.io/github/last-commit/MadScientistCH/meshcute?label=last%20updated) | Portable BLE, Wi-Fi and receive-only LoRa scanner for the M5Stack Cardputer Adv; universal toolbox for MeshCore/Meshtastic meetings. |
 | [MeshCore Packet Tool](https://github.com/meshcore-cz/meshcore-packet-tool) ![GitHub Repo stars](https://img.shields.io/github/stars/meshcore-cz/meshcore-packet-tool?style=social)<br>![Last updated](https://img.shields.io/github/last-commit/meshcore-cz/meshcore-packet-tool?label=last%20updated) | Browser workbench for inspecting, decoding and crafting packets. |
 | [meshcore-sim](https://github.com/dpup/meshcore-sim) ![GitHub Repo stars](https://img.shields.io/github/stars/dpup/meshcore-sim?style=social)<br>![Last updated](https://img.shields.io/github/last-commit/dpup/meshcore-sim?label=last%20updated) | Deterministic network simulator for testing without radios. |
+| [Mesh-Hunter](https://github.com/efiten/core-hunter) ![GitHub Repo stars](https://img.shields.io/github/stars/efiten/core-hunter?style=social)<br>![Last updated](https://img.shields.io/github/last-commit/efiten/core-hunter?label=last%20updated) | Phone web app that pairs with a companion radio and logs each packet it hears with your GPS position, to track down the source of unwanted traffic. [Web](https://mesh-hunter.eu/). |
+| [Local MeshCore Analyzer](https://github.com/GUSA1-bergstrasse/MeshCoreAnalyzer) ![GitHub Repo stars](https://img.shields.io/github/stars/GUSA1-bergstrasse/MeshCoreAnalyzer?style=social)<br>![Last updated](https://img.shields.io/github/last-commit/GUSA1-bergstrasse/MeshCoreAnalyzer?label=last%20updated) | Windows tool that shows how much traffic each nearby repeater carries by region, message type and channel, and finds looping packets. Free for non-commercial use. |
 
 ## Utilities
 
@@ -435,6 +438,7 @@ Tools to see what is happening on the mesh.
 | :--- | :--- |
 | [Belgian MQTT analyzer](https://analyzer.on8ar.eu/) | CoreScope instance for Belgian traffic. |
 | [Boston MeshCore MQTT dashboard](https://mcmqttdashboard.bostonme.sh/) | Live MQTT node presence and traffic metrics. |
+| [DMC Triangulator](https://triangulator.dutchmeshcore.nl/) | Narrows down where a node is from the repeaters that heard it. |
 | [EU Meshcore Analyzer](https://meshcore-analyzer.eu/) | Live visual map of European MeshCore LoRa network traffic. |
 | [KernWi-Fi live telemetry](https://meshcore.kernwifi.com.au/live) | South Australian live activity feed. |
 | [MeshCore Analyzer (letsmesh)](https://analyzer.letsmesh.net/) | Node connectivity, packet analysis and mesh health metrics. |
@@ -472,6 +476,7 @@ Tools to see what is happening on the mesh.
 | :--- | :--- |
 | [Austin Mesh setup guide](https://www.austinmesh.org/join/meshcore-setup/) | Beginner-friendly local setup. |
 | [Bravo.TAKKE.me MeshCore book](https://bravo.takke.me/books/meshcore) | Traditional Chinese guide: quick start, basic setup, firmware types, how MeshCore differs from Meshtastic. |
+| [DOMCA MeshCore documentation](https://docs.domca.nl/) | Dutch and English documentation, from a first node to protocol, firmware and radio internals. |
 | [J-Rat Techworks repeater guide](https://jrattechworks.com/meshcore-repeater-flashing-guide/) | Flashing and repeater setup. |
 | [Kev's Robots MeshCore course](https://www.kevsrobots.com/learn/meshcore/) | Structured tutorial series from basics to flashing. |
 | [LitBomb's MeshCore FAQ](https://github.com/LitBomb/MeshCore-FAQ) | Community FAQ in English and German. |
@@ -485,6 +490,7 @@ Tools to see what is happening on the mesh.
 | [MeshCore Ninja](https://meshcore.ninja/) | Open catalog of regional networks, devices, firmwares and software. |
 | [meshers.net](https://meshers.net/) | Beginner guides, worldwide band and device guide, and local groups directory. |
 | [NodakMesh wiki](https://nodakmesh.org/meshcore/wiki) | Reference documentation and setup guides. |
+| [OnlyFAQs MeshCore](https://onlyfaqs.nl/meshcore/) | About 40 common MeshCore questions in Dutch, each with a short and a long answer. |
 | [ScotMesh getting started](https://wiki.scotmesh.uk/en/MeshCore/getting-started) | Beginner guide from unboxing to the first message. |
 | [Video: MeshCore Quickstart](https://youtube.com/playlist?list=PLshzThxhw4O4WU_iZo3NmNZOv6KMrUuF9) | The comms channel's quickstart playlist. |
 | [Video: How to get started](https://youtu.be/t1qne8uJBAc) | Getting-started walkthrough. |
@@ -527,6 +533,7 @@ Tools to see what is happening on the mesh.
 #### Pan-European
 
 - [MeshCore Europe](https://meshcoreeurope.org/) - Multilingual umbrella site with community directory, guides and maps.
+- [meshcore-info.eu](https://meshcore-info.eu/) - Non-commercial guide in 33 languages, with local groups in 28 countries and a calendar feed of their meetings.
 
 #### Austria
 
